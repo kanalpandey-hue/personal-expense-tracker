@@ -138,6 +138,15 @@ Each script lists its expected results in comments. Full details are in [`sql/or
 
 ### Power BI dashboard
 
+**Implementation status**
+
+- **Data prepared and validated:** the Power BI datasets (`transactions`, `categories`, `months`, `budget_vs_actual`) and supporting CSV files are generated in `powerbi/data/` and checked against the cleaned project data.
+- **Guide included:** [`powerbi/POWER_BI_GUIDE.md`](powerbi/POWER_BI_GUIDE.md) contains the DAX measures and step-by-step instructions to build the dashboard.
+- **No `.pbix` file:** the report file was not generated because Power BI Desktop is not natively supported on macOS, where this project was developed.
+- **Interactive alternative:** the project includes a working Streamlit dashboard (`streamlit run dashboard/app.py`) with the same core analysis: KPIs, filters, category spending and budget vs actual.
+
+To build the Power BI report on Windows:
+
 1. Copy the `powerbi/` folder to a Windows PC (Power BI Desktop runs only on Windows).
 2. In Power BI Desktop, import the 4 CSV files from `powerbi/data/`.
 3. Follow [`powerbi/POWER_BI_GUIDE.md`](powerbi/POWER_BI_GUIDE.md) for relationships, measures, charts and slicers.
