@@ -1,0 +1,17 @@
+category,category_type,category_group,cost_nature
+Education,Expense,Essential,Variable
+Entertainment,Expense,Discretionary,Variable
+Food & Dining,Expense,Discretionary,Variable
+Freelance,Income,Income,Income
+Groceries,Expense,Essential,Variable
+Healthcare,Expense,Essential,Variable
+Insurance,Expense,Essential,Fixed
+Interest,Income,Income,Income
+Refund,Income,Income,Income
+Rent,Expense,Essential,Fixed
+Salary,Income,Income,Income
+Shopping,Expense,Discretionary,Variable
+Subscriptions,Expense,Discretionary,Fixed
+Transportation,Expense,Essential,Variable
+Travel,Expense,Discretionary,Variable
+Utilities,Expense,Essential,Fixed

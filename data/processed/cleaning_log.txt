@@ -1,0 +1,14 @@
+DATA CLEANING LOG  (generated 2026-11-26 20:09)
+============================================================
+- Loaded raw data: 1,335 rows, 8 columns
+- Removed 26 duplicate rows
+- Standardised 196 dates written in non-ISO formats; dropped 0 unparseable dates
+- Converted 104 text amounts to numbers; fixed 13 negative amounts; dropped 0 rows with no amount
+- Standardised 52 transaction-type labels (DR/CR -> Debit/Credit)
+- Standardised 99 inconsistent category spellings
+- Filled 26 of 26 missing categories using merchant name (0 left as 'Uncategorised')
+- Filled 39 missing payment modes with 'Unknown' (not guessed, to stay honest)
+- Removed 4 data-entry errors (amount > 20x merchant median): Office Canteen ₹7,235, Office Canteen ₹19,430, Haldiram's ₹72,669, Starbucks ₹80,856
+- Flagged 85 genuine large spends using the IQR rule (kept in data)
+- Added features: year, month, month_name, year_month, quarter, day_of_week, is_weekend, signed_amount, expense_type, cost_nature, is_large_spend
+- Final clean data: 1,305 rows, 19 columns, 0 missing values remaining

@@ -1,0 +1,1276 @@
+transaction_id,date,year_month,category,merchant,payment_mode,txn_type,amount,day_of_week
+TXN000001,2024-01-01,2024-01,Salary,TechNova Pvt Ltd,Net Banking,Credit,68000.0,Monday
+TXN000002,2024-01-01,2024-01,Groceries,DMart,UPI,Debit,1812.85,Monday
+TXN000003,2024-01-02,2024-01,Shopping,Amazon,UPI,Debit,918.43,Tuesday
+TXN000004,2024-01-02,2024-01,Transportation,Rapido,UPI,Debit,77.03,Tuesday
+TXN000005,2024-01-03,2024-01,Shopping,Myntra,Unknown,Debit,1302.33,Wednesday
+TXN000006,2024-01-03,2024-01,Transportation,Rapido,UPI,Debit,66.92,Wednesday
+TXN000007,2024-01-03,2024-01,Rent,House Rent - Landlord,Net Banking,Debit,15000.0,Wednesday
+TXN000008,2024-01-05,2024-01,Healthcare,Dental Clinic,UPI,Debit,857.18,Friday
+TXN000009,2024-01-06,2024-01,Transportation,Uber,Cash,Debit,442.84,Saturday
+TXN000010,2024-01-06,2024-01,Transportation,Rapido,UPI,Debit,142.08,Saturday
+TXN000011,2024-01-06,2024-01,Food & Dining,Swiggy,Credit Card,Debit,612.52,Saturday
+TXN000012,2024-01-07,2024-01,Utilities,Delhi Jal Board,Net Banking,Debit,250.0,Sunday
+TXN000013,2024-01-07,2024-01,Groceries,BigBasket,UPI,Debit,462.57,Sunday
+TXN000014,2024-01-07,2024-01,Subscriptions,Netflix,Debit Card,Debit,649.0,Sunday
+TXN000015,2024-01-08,2024-01,Utilities,Airtel Broadband,Net Banking,Debit,799.0,Monday
+TXN000016,2024-01-08,2024-01,Utilities,Indraprastha Gas (PNG),Net Banking,Debit,720.0,Monday
+TXN000017,2024-01-08,2024-01,Food & Dining,Office Canteen,UPI,Debit,136.29,Monday
+TXN000018,2024-01-09,2024-01,Utilities,BSES Electricity,UPI,Debit,969.0,Tuesday
+TXN000019,2024-01-09,2024-01,Food & Dining,Office Canteen,UPI,Debit,119.17,Tuesday
+TXN000020,2024-01-10,2024-01,Insurance,LIC Policy Premium,Net Banking,Debit,2200.0,Wednesday
+TXN000021,2024-01-10,2024-01,Transportation,Indian Oil Petrol Pump,Cash,Debit,618.2,Wednesday
+TXN000022,2024-01-11,2024-01,Shopping,Croma,Debit Card,Debit,3147.11,Thursday
+TXN000023,2024-01-12,2024-01,Transportation,Delhi Metro Recharge,UPI,Debit,248.8,Friday
+TXN000024,2024-01-12,2024-01,Food & Dining,Swiggy,UPI,Debit,384.62,Friday
+TXN000025,2024-01-12,2024-01,Subscriptions,Spotify,UPI,Debit,119.0,Friday
+TXN000026,2024-01-12,2024-01,Transportation,Rapido,Credit Card,Debit,163.96,Friday
+TXN000027,2024-01-13,2024-01,Transportation,Ola,UPI,Debit,489.92,Saturday
+TXN000028,2024-01-13,2024-01,Food & Dining,Haldiram's,UPI,Debit,347.1,Saturday
+TXN000029,2024-01-14,2024-01,Groceries,Zepto,UPI,Debit,206.51,Sunday
+TXN000030,2024-01-14,2024-01,Education,Coursera,UPI,Debit,3620.52,Sunday
+TXN000031,2024-01-15,2024-01,Subscriptions,Jio Mobile Recharge,Credit Card,Debit,349.0,Monday
+TXN000032,2024-01-16,2024-01,Entertainment,Steam Games,UPI,Debit,618.94,Tuesday
+TXN000033,2024-01-18,2024-01,Education,Udemy,UPI,Debit,2721.96,Thursday
+TXN000034,2024-01-19,2024-01,Shopping,Flipkart,Debit Card,Debit,2582.84,Friday
+TXN000035,2024-01-20,2024-01,Subscriptions,Amazon Prime,Credit Card,Debit,299.0,Saturday
+TXN000036,2024-01-21,2024-01,Groceries,Zepto,UPI,Debit,279.24,Sunday
+TXN000037,2024-01-21,2024-01,Entertainment,Bowling Alley,UPI,Debit,1384.68,Sunday
+TXN000038,2024-01-23,2024-01,Transportation,Ola,UPI,Debit,401.58,Tuesday
+TXN000039,2024-01-25,2024-01,Food & Dining,Zomato,UPI,Debit,313.49,Thursday
+TXN000040,2024-01-25,2024-01,Transportation,Uber,UPI,Debit,470.47,Thursday
+TXN000041,2024-01-26,2024-01,Food & Dining,Starbucks,UPI,Debit,535.71,Friday
+TXN000042,2024-01-27,2024-01,Transportation,Delhi Metro Recharge,UPI,Debit,336.02,Saturday
+TXN000043,2024-01-28,2024-01,Transportation,Delhi Metro Recharge,Debit Card,Debit,495.57,Sunday
+TXN000044,2024-01-29,2024-01,Groceries,BigBasket,UPI,Debit,1821.07,Monday
+TXN000045,2024-01-30,2024-01,Transportation,Indian Oil Petrol Pump,Cash,Debit,1304.34,Tuesday
+TXN000046,2024-01-30,2024-01,Transportation,Indian Oil Petrol Pump,Debit Card,Debit,1069.18,Tuesday
+TXN000047,2024-02-01,2024-02,Salary,TechNova Pvt Ltd,Net Banking,Credit,68000.0,Thursday
+TXN000048,2024-02-01,2024-02,Refund,Amazon,UPI,Credit,1594.28,Thursday
+TXN000049,2024-02-01,2024-02,Food & Dining,Starbucks,UPI,Debit,363.26,Thursday
+TXN000050,2024-02-03,2024-02,Rent,House Rent - Landlord,Net Banking,Debit,15000.0,Saturday
+TXN000051,2024-02-03,2024-02,Transportation,Rapido,UPI,Debit,172.57,Saturday
+TXN000052,2024-02-04,2024-02,Groceries,BigBasket,Credit Card,Debit,1828.6,Sunday
+TXN000053,2024-02-05,2024-02,Utilities,Delhi Jal Board,Net Banking,Debit,250.0,Monday
+TXN000054,2024-02-05,2024-02,Transportation,Rapido,Debit Card,Debit,147.22,Monday
+TXN000055,2024-02-06,2024-02,Food & Dining,Zomato,UPI,Debit,411.83,Tuesday
+TXN000056,2024-02-06,2024-02,Groceries,BigBasket,UPI,Debit,720.97,Tuesday
+TXN000057,2024-02-06,2024-02,Transportation,Indian Oil Petrol Pump,UPI,Debit,1920.27,Tuesday
+TXN000058,2024-02-06,2024-02,Utilities,Airtel Broadband,Net Banking,Debit,799.0,Tuesday
+TXN000059,2024-02-07,2024-02,Subscriptions,Netflix,Credit Card,Debit,649.0,Wednesday
+TXN000060,2024-02-07,2024-02,Food & Dining,Office Canteen,UPI,Debit,131.07,Wednesday
+TXN000061,2024-02-08,2024-02,Freelance,Upwork Client,UPI,Credit,18000.0,Thursday
+TXN000062,2024-02-08,2024-02,Transportation,Delhi Metro Recharge,Cash,Debit,271.84,Thursday
+TXN000063,2024-02-08,2024-02,Healthcare,Dental Clinic,Credit Card,Debit,802.51,Thursday
+TXN000064,2024-02-09,2024-02,Food & Dining,Office Canteen,Credit Card,Debit,182.62,Friday
+TXN000065,2024-02-10,2024-02,Food & Dining,Office Canteen,Debit Card,Debit,107.62,Saturday
+TXN000066,2024-02-10,2024-02,Insurance,LIC Policy Premium,Net Banking,Debit,2200.0,Saturday
+TXN000067,2024-02-10,2024-02,Food & Dining,Swiggy,UPI,Debit,676.2,Saturday
+TXN000068,2024-02-12,2024-02,Utilities,BSES Electricity,Net Banking,Debit,1009.8,Monday
+TXN000069,2024-02-12,2024-02,Transportation,Uber,UPI,Debit,179.29,Monday
+TXN000070,2024-02-12,2024-02,Subscriptions,Spotify,Debit Card,Debit,119.0,Monday
+TXN000071,2024-02-13,2024-02,Groceries,Local Kirana Store,UPI,Debit,457.85,Tuesday
+TXN000072,2024-02-13,2024-02,Healthcare,1mg,UPI,Debit,912.95,Tuesday
+TXN000073,2024-02-15,2024-02,Subscriptions,Jio Mobile Recharge,UPI,Debit,349.0,Thursday
+TXN000074,2024-02-15,2024-02,Groceries,Local Kirana Store,Debit Card,Debit,457.53,Thursday
+TXN000075,2024-02-16,2024-02,Transportation,Uber,UPI,Debit,437.44,Friday
+TXN000076,2024-02-17,2024-02,Utilities,Indraprastha Gas (PNG),Net Banking,Debit,720.0,Saturday
+TXN000077,2024-02-17,2024-02,Healthcare,Max Hospital,Credit Card,Debit,2640.02,Saturday
+TXN000078,2024-02-17,2024-02,Food & Dining,Domino's,UPI,Debit,757.18,Saturday
+TXN000079,2024-02-17,2024-02,Transportation,Rapido,UPI,Debit,173.49,Saturday
+TXN000080,2024-02-18,2024-02,Groceries,Zepto,UPI,Debit,313.42,Sunday
+TXN000081,2024-02-18,2024-02,Healthcare,Dental Clinic,Credit Card,Debit,2910.91,Sunday
+TXN000082,2024-02-20,2024-02,Subscriptions,Amazon Prime,Credit Card,Debit,299.0,Tuesday
+TXN000083,2024-02-20,2024-02,Entertainment,Steam Games,Cash,Debit,1091.51,Tuesday
+TXN000084,2024-02-25,2024-02,Groceries,Zepto,UPI,Debit,638.07,Sunday
+TXN000085,2024-02-25,2024-02,Transportation,Indian Oil Petrol Pump,UPI,Debit,1724.03,Sunday
+TXN000086,2024-03-01,2024-03,Salary,TechNova Pvt Ltd,Net Banking,Credit,68000.0,Friday
+TXN000087,2024-03-01,2024-03,Food & Dining,Swiggy,Credit Card,Debit,273.84,Friday
+TXN000088,2024-03-02,2024-03,Food & Dining,Swiggy,Unknown,Debit,606.35,Saturday
+TXN000089,2024-03-03,2024-03,Rent,House Rent - Landlord,Net Banking,Debit,15000.0,Sunday
+TXN000090,2024-03-03,2024-03,Food & Dining,Domino's,UPI,Debit,801.62,Sunday
+TXN000091,2024-03-03,2024-03,Transportation,Rapido,UPI,Debit,179.45,Sunday
+TXN000092,2024-03-04,2024-03,Entertainment,Steam Games,UPI,Debit,1697.63,Monday
+TXN000093,2024-03-04,2024-03,Groceries,Blinkit,Cash,Debit,750.44,Monday
+TXN000094,2024-03-05,2024-03,Groceries,Local Kirana Store,UPI,Debit,228.54,Tuesday
+TXN000095,2024-03-05,2024-03,Healthcare,Apollo Pharmacy,Debit Card,Debit,1152.26,Tuesday
+TXN000096,2024-03-05,2024-03,Food & Dining,Office Canteen,UPI,Debit,160.58,Tuesday
+TXN000097,2024-03-05,2024-03,Utilities,Airtel Broadband,Unknown,Debit,799.0,Tuesday
+TXN000098,2024-03-06,2024-03,Groceries,Local Kirana Store,Debit Card,Debit,184.11,Wednesday
+TXN000099,2024-03-06,2024-03,Utilities,BSES Electricity,UPI,Debit,981.19,Wednesday
+TXN000100,2024-03-06,2024-03,Transportation,Rapido,UPI,Debit,51.22,Wednesday
+TXN000101,2024-03-07,2024-03,Groceries,Local Kirana Store,UPI,Debit,584.5,Thursday
+TXN000102,2024-03-07,2024-03,Subscriptions,Netflix,Credit Card,Debit,649.0,Thursday
+TXN000103,2024-03-08,2024-03,Groceries,Zepto,UPI,Debit,524.54,Friday
+TXN000104,2024-03-08,2024-03,Freelance,Upwork Client,UPI,Credit,5100.0,Friday
+TXN000105,2024-03-09,2024-03,Groceries,BigBasket,UPI,Debit,1479.73,Saturday
+TXN000106,2024-03-09,2024-03,Transportation,Rapido,UPI,Debit,69.84,Saturday
+TXN000107,2024-03-10,2024-03,Utilities,Delhi Jal Board,UPI,Debit,250.0,Sunday
+TXN000108,2024-03-10,2024-03,Insurance,LIC Policy Premium,Net Banking,Debit,2200.0,Sunday
+TXN000109,2024-03-10,2024-03,Transportation,Ola,Debit Card,Debit,402.26,Sunday
+TXN000110,2024-03-11,2024-03,Transportation,Rapido,Cash,Debit,119.13,Monday
+TXN000111,2024-03-12,2024-03,Subscriptions,Spotify,UPI,Debit,119.0,Tuesday
+TXN000112,2024-03-12,2024-03,Shopping,Amazon,UPI,Debit,2674.03,Tuesday
+TXN000113,2024-03-13,2024-03,Transportation,Delhi Metro Recharge,UPI,Debit,271.61,Wednesday
+TXN000114,2024-03-13,2024-03,Food & Dining,Starbucks,UPI,Debit,385.5,Wednesday
+TXN000115,2024-03-14,2024-03,Groceries,BigBasket,Cash,Debit,603.55,Thursday
+TXN000116,2024-03-14,2024-03,Transportation,Uber,UPI,Debit,448.27,Thursday
+TXN000117,2024-03-15,2024-03,Groceries,Blinkit,UPI,Debit,467.68,Friday
+TXN000118,2024-03-15,2024-03,Subscriptions,Jio Mobile Recharge,UPI,Debit,349.0,Friday
+TXN000119,2024-03-16,2024-03,Food & Dining,Zomato,UPI,Debit,283.11,Saturday
+TXN000120,2024-03-17,2024-03,Food & Dining,Swiggy,UPI,Debit,512.98,Sunday
+TXN000121,2024-03-18,2024-03,Groceries,DMart,UPI,Debit,1059.82,Monday
+TXN000122,2024-03-18,2024-03,Utilities,Indraprastha Gas (PNG),UPI,Debit,450.0,Monday
+TXN000123,2024-03-18,2024-03,Food & Dining,Office Canteen,UPI,Debit,199.36,Monday
+TXN000124,2024-03-18,2024-03,Food & Dining,Swiggy,Unknown,Debit,510.13,Monday
+TXN000125,2024-03-20,2024-03,Transportation,Rapido,UPI,Debit,74.47,Wednesday
+TXN000126,2024-03-20,2024-03,Shopping,Croma,Debit Card,Debit,6776.55,Wednesday
+TXN000127,2024-03-20,2024-03,Subscriptions,Amazon Prime,Credit Card,Debit,299.0,Wednesday
+TXN000128,2024-03-20,2024-03,Transportation,Uber,UPI,Debit,124.94,Wednesday
+TXN000129,2024-03-21,2024-03,Food & Dining,Domino's,UPI,Debit,358.75,Thursday
+TXN000130,2024-03-21,2024-03,Groceries,BigBasket,UPI,Debit,1814.07,Thursday
+TXN000131,2024-03-22,2024-03,Transportation,Uber,Cash,Debit,435.37,Friday
+TXN000132,2024-03-23,2024-03,Food & Dining,Starbucks,UPI,Debit,414.1,Saturday
+TXN000133,2024-03-23,2024-03,Transportation,Delhi Metro Recharge,Credit Card,Debit,261.28,Saturday
+TXN000134,2024-03-24,2024-03,Groceries,BigBasket,UPI,Debit,527.29,Sunday
+TXN000135,2024-03-25,2024-03,Transportation,Indian Oil Petrol Pump,Credit Card,Debit,974.27,Monday
+TXN000136,2024-03-25,2024-03,Insurance,Star Health Insurance,Net Banking,Debit,18500.0,Monday
+TXN000137,2024-03-26,2024-03,Food & Dining,Starbucks,UPI,Debit,406.08,Tuesday
+TXN000138,2024-03-27,2024-03,Shopping,Myntra,Debit Card,Debit,815.49,Wednesday
+TXN000139,2024-03-27,2024-03,Shopping,Croma,UPI,Debit,1558.67,Wednesday
+TXN000140,2024-03-28,2024-03,Food & Dining,Swiggy,UPI,Debit,432.58,Thursday
+TXN000141,2024-03-28,2024-03,Food & Dining,Haldiram's,Debit Card,Debit,689.5,Thursday
+TXN000142,2024-03-28,2024-03,Interest,Bank Interest,Unknown,Credit,1166.27,Thursday
+TXN000143,2024-03-29,2024-03,Healthcare,1mg,UPI,Debit,464.47,Friday
+TXN000144,2024-03-29,2024-03,Transportation,Ola,UPI,Debit,519.97,Friday
+TXN000145,2024-03-31,2024-03,Transportation,Ola,UPI,Debit,281.7,Sunday
+TXN000146,2024-03-31,2024-03,Transportation,Rapido,Debit Card,Debit,62.04,Sunday
+TXN000147,2024-03-31,2024-03,Food & Dining,Zomato,Debit Card,Debit,363.96,Sunday
+TXN000148,2024-04-01,2024-04,Salary,TechNova Pvt Ltd,Net Banking,Credit,68000.0,Monday
+TXN000149,2024-04-01,2024-04,Transportation,Rapido,Cash,Debit,86.36,Monday
+TXN000150,2024-04-01,2024-04,Food & Dining,Zomato,Cash,Debit,726.48,Monday
+TXN000151,2024-04-03,2024-04,Rent,House Rent - Landlord,Net Banking,Debit,15000.0,Wednesday
+TXN000152,2024-04-03,2024-04,Entertainment,BookMyShow,UPI,Debit,1101.29,Wednesday
+TXN000153,2024-04-04,2024-04,Transportation,Ola,UPI,Debit,454.32,Thursday
+TXN000154,2024-04-04,2024-04,Food & Dining,Office Canteen,Cash,Debit,94.93,Thursday
+TXN000155,2024-04-04,2024-04,Groceries,Local Kirana Store,UPI,Debit,436.54,Thursday
+TXN000156,2024-04-05,2024-04,Food & Dining,Haldiram's,UPI,Debit,803.38,Friday
+TXN000157,2024-04-07,2024-04,Food & Dining,Swiggy,Cash,Debit,692.39,Sunday
+TXN000158,2024-04-07,2024-04,Subscriptions,Netflix,UPI,Debit,649.0,Sunday
+TXN000159,2024-04-08,2024-04,Utilities,BSES Electricity,UPI,Debit,3088.91,Monday
+TXN000160,2024-04-08,2024-04,Food & Dining,Zomato,Unknown,Debit,753.97,Monday
+TXN000161,2024-04-09,2024-04,Groceries,Blinkit,Credit Card,Debit,529.06,Tuesday
+TXN000162,2024-04-09,2024-04,Groceries,DMart,UPI,Debit,2129.07,Tuesday
+TXN000163,2024-04-09,2024-04,Transportation,Ola,UPI,Debit,361.27,Tuesday
+TXN000164,2024-04-09,2024-04,Transportation,Uber,UPI,Debit,584.83,Tuesday
+TXN000165,2024-04-09,2024-04,Transportation,Uber,UPI,Debit,632.45,Tuesday
+TXN000166,2024-04-09,2024-04,Transportation,Ola,UPI,Debit,279.31,Tuesday
+TXN000167,2024-04-09,2024-04,Food & Dining,Office Canteen,UPI,Debit,173.5,Tuesday
+TXN000168,2024-04-10,2024-04,Entertainment,PVR Cinemas,UPI,Debit,961.79,Wednesday
+TXN000169,2024-04-10,2024-04,Food & Dining,Starbucks,UPI,Debit,350.98,Wednesday
+TXN000170,2024-04-10,2024-04,Insurance,LIC Policy Premium,Net Banking,Debit,2200.0,Wednesday
+TXN000171,2024-04-11,2024-04,Entertainment,Steam Games,UPI,Debit,1300.34,Thursday
+TXN000172,2024-04-11,2024-04,Groceries,Blinkit,Credit Card,Debit,183.07,Thursday
+TXN000173,2024-04-11,2024-04,Shopping,Myntra,UPI,Debit,1957.09,Thursday
+TXN000174,2024-04-11,2024-04,Food & Dining,Zomato,Cash,Debit,636.67,Thursday
+TXN000175,2024-04-12,2024-04,Subscriptions,Spotify,UPI,Debit,119.0,Friday
+TXN000176,2024-04-13,2024-04,Transportation,Delhi Metro Recharge,UPI,Debit,392.44,Saturday
+TXN000177,2024-04-14,2024-04,Groceries,BigBasket,UPI,Debit,593.83,Sunday
+TXN000178,2024-04-14,2024-04,Transportation,Uber,Credit Card,Debit,177.45,Sunday
+TXN000179,2024-04-15,2024-04,Utilities,Indraprastha Gas (PNG),Net Banking,Debit,450.0,Monday
+TXN000180,2024-04-15,2024-04,Subscriptions,Jio Mobile Recharge,Credit Card,Debit,349.0,Monday
+TXN000181,2024-04-15,2024-04,Utilities,Airtel Broadband,Net Banking,Debit,799.0,Monday
+TXN000182,2024-04-17,2024-04,Shopping,Decathlon,UPI,Debit,2094.28,Wednesday
+TXN000183,2024-04-18,2024-04,Utilities,Delhi Jal Board,Net Banking,Debit,250.0,Thursday
+TXN000184,2024-04-18,2024-04,Groceries,DMart,Unknown,Debit,2378.95,Thursday
+TXN000185,2024-04-19,2024-04,Shopping,Amazon,Debit Card,Debit,1340.03,Friday
+TXN000186,2024-04-20,2024-04,Subscriptions,Amazon Prime,UPI,Debit,299.0,Saturday
+TXN000187,2024-04-22,2024-04,Entertainment,Steam Games,UPI,Debit,1234.73,Monday
+TXN000188,2024-04-22,2024-04,Transportation,Ola,Debit Card,Debit,200.32,Monday
+TXN000189,2024-04-23,2024-04,Groceries,BigBasket,UPI,Debit,2384.61,Tuesday
+TXN000190,2024-04-23,2024-04,Shopping,Flipkart,Debit Card,Debit,936.81,Tuesday
+TXN000191,2024-04-24,2024-04,Food & Dining,Starbucks,UPI,Debit,689.53,Wednesday
+TXN000192,2024-04-26,2024-04,Food & Dining,Haldiram's,Cash,Debit,1104.03,Friday
+TXN000193,2024-04-26,2024-04,Food & Dining,Zomato,Unknown,Debit,785.25,Friday
+TXN000194,2024-04-27,2024-04,Transportation,Indian Oil Petrol Pump,Cash,Debit,1024.49,Saturday
+TXN000195,2024-04-27,2024-04,Transportation,Indian Oil Petrol Pump,UPI,Debit,833.65,Saturday
+TXN000196,2024-04-27,2024-04,Food & Dining,Zomato,UPI,Debit,518.27,Saturday
+TXN000197,2024-04-28,2024-04,Transportation,Indian Oil Petrol Pump,UPI,Debit,1808.25,Sunday
+TXN000198,2024-04-28,2024-04,Food & Dining,Starbucks,Credit Card,Debit,620.89,Sunday
+TXN000199,2024-04-29,2024-04,Food & Dining,Haldiram's,UPI,Debit,991.11,Monday
+TXN000200,2024-04-30,2024-04,Entertainment,Bowling Alley,Credit Card,Debit,501.69,Tuesday
+TXN000201,2024-05-01,2024-05,Salary,TechNova Pvt Ltd,Net Banking,Credit,68000.0,Wednesday
+TXN000202,2024-05-01,2024-05,Shopping,Croma,Credit Card,Debit,8595.47,Wednesday
+TXN000203,2024-05-01,2024-05,Shopping,Croma,UPI,Debit,4352.86,Wednesday
+TXN000204,2024-05-02,2024-05,Food & Dining,Zomato,UPI,Debit,271.36,Thursday
+TXN000205,2024-05-03,2024-05,Rent,House Rent - Landlord,Net Banking,Debit,15000.0,Friday
+TXN000206,2024-05-03,2024-05,Transportation,Ola,UPI,Debit,417.89,Friday
+TXN000207,2024-05-03,2024-05,Transportation,Delhi Metro Recharge,UPI,Debit,467.91,Friday
+TXN000208,2024-05-04,2024-05,Food & Dining,Zomato,UPI,Debit,748.83,Saturday
+TXN000209,2024-05-05,2024-05,Freelance,Upwork Client,UPI,Credit,7500.0,Sunday
+TXN000210,2024-05-06,2024-05,Transportation,Rapido,Debit Card,Debit,102.43,Monday
+TXN000211,2024-05-07,2024-05,Subscriptions,Netflix,Credit Card,Debit,649.0,Tuesday
+TXN000212,2024-05-07,2024-05,Transportation,Indian Oil Petrol Pump,UPI,Debit,1123.66,Tuesday
+TXN000213,2024-05-07,2024-05,Utilities,Delhi Jal Board,UPI,Debit,250.0,Tuesday
+TXN000214,2024-05-08,2024-05,Transportation,Rapido,UPI,Debit,107.84,Wednesday
+TXN000215,2024-05-08,2024-05,Food & Dining,Swiggy,UPI,Debit,623.7,Wednesday
+TXN000216,2024-05-08,2024-05,Food & Dining,Zomato,UPI,Debit,597.13,Wednesday
+TXN000217,2024-05-09,2024-05,Transportation,Ola,UPI,Debit,477.94,Thursday
+TXN000218,2024-05-09,2024-05,Entertainment,BookMyShow,UPI,Debit,1374.1,Thursday
+TXN000219,2024-05-10,2024-05,Groceries,DMart,Cash,Debit,2181.24,Friday
+TXN000220,2024-05-10,2024-05,Groceries,Zepto,Credit Card,Debit,691.92,Friday
+TXN000221,2024-05-10,2024-05,Insurance,LIC Policy Premium,Net Banking,Debit,2200.0,Friday
+TXN000222,2024-05-11,2024-05,Groceries,Zepto,UPI,Debit,544.33,Saturday
+TXN000223,2024-05-11,2024-05,Transportation,Delhi Metro Recharge,UPI,Debit,270.35,Saturday
+TXN000224,2024-05-11,2024-05,Utilities,BSES Electricity,UPI,Debit,3038.33,Saturday
+TXN000225,2024-05-12,2024-05,Subscriptions,Spotify,Credit Card,Debit,119.0,Sunday
+TXN000226,2024-05-13,2024-05,Transportation,Ola,UPI,Debit,167.87,Monday
+TXN000227,2024-05-13,2024-05,Food & Dining,Office Canteen,UPI,Debit,113.76,Monday
+TXN000228,2024-05-13,2024-05,Shopping,Myntra,Credit Card,Debit,1097.23,Monday
+TXN000229,2024-05-13,2024-05,Groceries,Zepto,UPI,Debit,519.92,Monday
+TXN000230,2024-05-13,2024-05,Entertainment,Bowling Alley,Cash,Debit,985.64,Monday
+TXN000231,2024-05-15,2024-05,Subscriptions,Jio Mobile Recharge,Credit Card,Debit,349.0,Wednesday
+TXN000232,2024-05-15,2024-05,Food & Dining,Starbucks,UPI,Debit,353.34,Wednesday
+TXN000233,2024-05-15,2024-05,Utilities,Airtel Broadband,UPI,Debit,799.0,Wednesday
+TXN000234,2024-05-16,2024-05,Utilities,Indraprastha Gas (PNG),Net Banking,Debit,450.0,Thursday
+TXN000235,2024-05-18,2024-05,Transportation,Indian Oil Petrol Pump,UPI,Debit,1111.4,Saturday
+TXN000236,2024-05-18,2024-05,Food & Dining,Domino's,UPI,Debit,578.73,Saturday
+TXN000237,2024-05-19,2024-05,Travel,IRCTC,Credit Card,Debit,3230.09,Sunday
+TXN000238,2024-05-20,2024-05,Subscriptions,Amazon Prime,UPI,Debit,299.0,Monday
+TXN000239,2024-05-20,2024-05,Groceries,Zepto,Credit Card,Debit,581.5,Monday
+TXN000240,2024-05-20,2024-05,Transportation,Rapido,UPI,Debit,178.3,Monday
+TXN000241,2024-05-20,2024-05,Healthcare,Dental Clinic,UPI,Debit,2798.85,Monday
+TXN000242,2024-05-20,2024-05,Food & Dining,Zomato,UPI,Debit,790.04,Monday
+TXN000243,2024-05-22,2024-05,Groceries,Local Kirana Store,UPI,Debit,365.07,Wednesday
+TXN000244,2024-05-23,2024-05,Food & Dining,Zomato,UPI,Debit,678.55,Thursday
+TXN000245,2024-05-23,2024-05,Transportation,Delhi Metro Recharge,UPI,Debit,331.96,Thursday
+TXN000246,2024-05-23,2024-05,Food & Dining,Zomato,Cash,Debit,271.49,Thursday
+TXN000247,2024-05-23,2024-05,Food & Dining,Office Canteen,Debit Card,Debit,140.59,Thursday
+TXN000248,2024-05-24,2024-05,Shopping,Decathlon,UPI,Debit,1937.91,Friday
+TXN000249,2024-05-24,2024-05,Transportation,Indian Oil Petrol Pump,UPI,Debit,1418.98,Friday
+TXN000250,2024-05-25,2024-05,Transportation,Indian Oil Petrol Pump,UPI,Debit,1084.22,Saturday
+TXN000251,2024-05-25,2024-05,Transportation,Indian Oil Petrol Pump,UPI,Debit,1175.1,Saturday
+TXN000252,2024-05-26,2024-05,Groceries,DMart,UPI,Debit,1826.82,Sunday
+TXN000253,2024-05-26,2024-05,Groceries,Blinkit,UPI,Debit,307.64,Sunday
+TXN000254,2024-05-26,2024-05,Entertainment,Steam Games,UPI,Debit,1303.31,Sunday
+TXN000255,2024-05-27,2024-05,Entertainment,Bowling Alley,Cash,Debit,1224.18,Monday
+TXN000256,2024-05-28,2024-05,Food & Dining,Swiggy,Debit Card,Debit,688.82,Tuesday
+TXN000257,2024-05-29,2024-05,Transportation,Delhi Metro Recharge,UPI,Debit,485.01,Wednesday
+TXN000258,2024-05-29,2024-05,Food & Dining,Swiggy,Debit Card,Debit,439.59,Wednesday
+TXN000259,2024-05-30,2024-05,Transportation,Rapido,Credit Card,Debit,99.74,Thursday
+TXN000260,2024-05-31,2024-05,Food & Dining,Haldiram's,UPI,Debit,338.72,Friday
+TXN000261,2024-06-01,2024-06,Salary,TechNova Pvt Ltd,Net Banking,Credit,68000.0,Saturday
+TXN000262,2024-06-01,2024-06,Groceries,Blinkit,Cash,Debit,231.07,Saturday
+TXN000263,2024-06-03,2024-06,Rent,House Rent - Landlord,Net Banking,Debit,15000.0,Monday
+TXN000264,2024-06-03,2024-06,Groceries,Local Kirana Store,UPI,Debit,251.36,Monday
+TXN000265,2024-06-03,2024-06,Shopping,Decathlon,UPI,Debit,2523.75,Monday
+TXN000266,2024-06-04,2024-06,Food & Dining,Starbucks,UPI,Debit,628.93,Tuesday
+TXN000267,2024-06-06,2024-06,Groceries,BigBasket,UPI,Debit,2033.36,Thursday
+TXN000268,2024-06-07,2024-06,Groceries,BigBasket,UPI,Debit,1584.34,Friday
+TXN000269,2024-06-07,2024-06,Transportation,Rapido,UPI,Debit,41.42,Friday
+TXN000270,2024-06-07,2024-06,Subscriptions,Netflix,Credit Card,Debit,649.0,Friday
+TXN000271,2024-06-07,2024-06,Refund,Amazon,UPI,Credit,994.21,Friday
+TXN000272,2024-06-08,2024-06,Utilities,Delhi Jal Board,Net Banking,Debit,250.0,Saturday
+TXN000273,2024-06-08,2024-06,Food & Dining,Haldiram's,UPI,Debit,556.19,Saturday
+TXN000274,2024-06-08,2024-06,Travel,IndiGo Airlines,UPI,Debit,5186.43,Saturday
+TXN000275,2024-06-08,2024-06,Groceries,BigBasket,UPI,Debit,1983.89,Saturday
+TXN000276,2024-06-08,2024-06,Transportation,Indian Oil Petrol Pump,UPI,Debit,1332.76,Saturday
+TXN000277,2024-06-09,2024-06,Transportation,Rapido,UPI,Debit,138.17,Sunday
+TXN000278,2024-06-09,2024-06,Utilities,BSES Electricity,UPI,Debit,2574.46,Sunday
+TXN000279,2024-06-10,2024-06,Utilities,Indraprastha Gas (PNG),Net Banking,Debit,450.0,Monday
+TXN000280,2024-06-10,2024-06,Insurance,LIC Policy Premium,Debit Card,Debit,2200.0,Monday
+TXN000281,2024-06-11,2024-06,Transportation,Uber,UPI,Debit,381.98,Tuesday
+TXN000282,2024-06-11,2024-06,Utilities,Airtel Broadband,UPI,Debit,799.0,Tuesday
+TXN000283,2024-06-11,2024-06,Food & Dining,Domino's,UPI,Debit,700.91,Tuesday
+TXN000284,2024-06-12,2024-06,Transportation,Ola,Credit Card,Debit,319.4,Wednesday
+TXN000285,2024-06-12,2024-06,Groceries,BigBasket,UPI,Debit,2499.81,Wednesday
+TXN000286,2024-06-12,2024-06,Subscriptions,Spotify,Credit Card,Debit,119.0,Wednesday
+TXN000287,2024-06-14,2024-06,Food & Dining,Swiggy,Credit Card,Debit,377.91,Friday
+TXN000288,2024-06-14,2024-06,Food & Dining,Starbucks,UPI,Debit,582.92,Friday
+TXN000289,2024-06-14,2024-06,Transportation,Uber,Cash,Debit,247.92,Friday
+TXN000290,2024-06-15,2024-06,Healthcare,Max Hospital,UPI,Debit,2277.6,Saturday
+TXN000291,2024-06-15,2024-06,Subscriptions,Jio Mobile Recharge,UPI,Debit,349.0,Saturday
+TXN000292,2024-06-15,2024-06,Food & Dining,Swiggy,Debit Card,Debit,338.99,Saturday
+TXN000293,2024-06-15,2024-06,Food & Dining,Domino's,UPI,Debit,764.78,Saturday
+TXN000294,2024-06-16,2024-06,Groceries,DMart,UPI,Debit,1172.51,Sunday
+TXN000295,2024-06-16,2024-06,Shopping,Decathlon,Credit Card,Debit,2185.58,Sunday
+TXN000296,2024-06-17,2024-06,Shopping,Myntra,Debit Card,Debit,1446.52,Monday
+TXN000297,2024-06-17,2024-06,Food & Dining,Office Canteen,Credit Card,Debit,111.88,Monday
+TXN000298,2024-06-18,2024-06,Groceries,Local Kirana Store,Cash,Debit,111.63,Tuesday
+TXN000299,2024-06-19,2024-06,Food & Dining,Zomato,UPI,Debit,645.3,Wednesday
+TXN000300,2024-06-19,2024-06,Food & Dining,Starbucks,UPI,Debit,630.29,Wednesday
+TXN000301,2024-06-19,2024-06,Shopping,Flipkart,Unknown,Debit,1065.52,Wednesday
+TXN000302,2024-06-19,2024-06,Food & Dining,Swiggy,Debit Card,Debit,633.85,Wednesday
+TXN000303,2024-06-20,2024-06,Food & Dining,Haldiram's,Unknown,Debit,1057.78,Thursday
+TXN000304,2024-06-20,2024-06,Subscriptions,Amazon Prime,Credit Card,Debit,299.0,Thursday
+TXN000305,2024-06-20,2024-06,Groceries,Blinkit,UPI,Debit,275.84,Thursday
+TXN000306,2024-06-20,2024-06,Groceries,DMart,Credit Card,Debit,2614.15,Thursday
+TXN000307,2024-06-21,2024-06,Food & Dining,Zomato,UPI,Debit,634.95,Friday
+TXN000308,2024-06-21,2024-06,Food & Dining,Starbucks,UPI,Debit,684.32,Friday
+TXN000309,2024-06-21,2024-06,Freelance,Upwork Client,UPI,Credit,10600.0,Friday
+TXN000310,2024-06-23,2024-06,Food & Dining,Office Canteen,UPI,Debit,94.0,Sunday
+TXN000311,2024-06-23,2024-06,Food & Dining,Zomato,UPI,Debit,227.12,Sunday
+TXN000312,2024-06-23,2024-06,Food & Dining,Starbucks,Unknown,Debit,458.66,Sunday
+TXN000313,2024-06-23,2024-06,Shopping,Myntra,UPI,Debit,943.19,Sunday
+TXN000314,2024-06-24,2024-06,Entertainment,Steam Games,UPI,Debit,938.26,Monday
+TXN000315,2024-06-25,2024-06,Groceries,Local Kirana Store,Cash,Debit,519.68,Tuesday
+TXN000316,2024-06-25,2024-06,Groceries,DMart,Credit Card,Debit,2160.35,Tuesday
+TXN000317,2024-06-25,2024-06,Groceries,Local Kirana Store,Debit Card,Debit,296.11,Tuesday
+TXN000318,2024-06-27,2024-06,Groceries,Local Kirana Store,Unknown,Debit,266.95,Thursday
+TXN000319,2024-06-28,2024-06,Interest,Bank Interest,Net Banking,Credit,1293.48,Friday
+TXN000320,2024-06-28,2024-06,Food & Dining,Office Canteen,UPI,Debit,107.77,Friday
+TXN000321,2024-06-29,2024-06,Transportation,Delhi Metro Recharge,Debit Card,Debit,302.1,Saturday
+TXN000322,2024-06-30,2024-06,Food & Dining,Haldiram's,UPI,Debit,797.01,Sunday
+TXN000323,2024-06-30,2024-06,Food & Dining,Haldiram's,Credit Card,Debit,835.12,Sunday
+TXN000324,2024-07-01,2024-07,Salary,TechNova Pvt Ltd,Net Banking,Credit,68000.0,Monday
+TXN000325,2024-07-01,2024-07,Groceries,Local Kirana Store,UPI,Debit,161.55,Monday
+TXN000326,2024-07-01,2024-07,Shopping,Croma,Credit Card,Debit,5903.42,Monday
+TXN000327,2024-07-02,2024-07,Groceries,Zepto,UPI,Debit,232.28,Tuesday
+TXN000328,2024-07-02,2024-07,Transportation,Rapido,Cash,Debit,105.79,Tuesday
+TXN000329,2024-07-02,2024-07,Shopping,Decathlon,Credit Card,Debit,885.02,Tuesday
+TXN000330,2024-07-03,2024-07,Groceries,Local Kirana Store,Cash,Debit,168.45,Wednesday
+TXN000331,2024-07-03,2024-07,Transportation,Delhi Metro Recharge,UPI,Debit,447.99,Wednesday
+TXN000332,2024-07-03,2024-07,Refund,Amazon,UPI,Credit,991.94,Wednesday
+TXN000333,2024-07-03,2024-07,Rent,House Rent - Landlord,Net Banking,Debit,15000.0,Wednesday
+TXN000334,2024-07-04,2024-07,Groceries,Zepto,Cash,Debit,537.91,Thursday
+TXN000335,2024-07-04,2024-07,Healthcare,Max Hospital,UPI,Debit,2148.44,Thursday
+TXN000336,2024-07-05,2024-07,Food & Dining,Office Canteen,UPI,Debit,156.1,Friday
+TXN000337,2024-07-06,2024-07,Entertainment,Bowling Alley,Debit Card,Debit,1416.07,Saturday
+TXN000338,2024-07-06,2024-07,Food & Dining,Zomato,UPI,Debit,522.24,Saturday
+TXN000339,2024-07-07,2024-07,Subscriptions,Netflix,Debit Card,Debit,649.0,Sunday
+TXN000340,2024-07-07,2024-07,Utilities,Airtel Broadband,UPI,Debit,799.0,Sunday
+TXN000341,2024-07-08,2024-07,Utilities,Indraprastha Gas (PNG),Credit Card,Debit,450.0,Monday
+TXN000342,2024-07-08,2024-07,Food & Dining,Office Canteen,Credit Card,Debit,71.37,Monday
+TXN000343,2024-07-08,2024-07,Food & Dining,Haldiram's,Debit Card,Debit,330.92,Monday
+TXN000344,2024-07-08,2024-07,Transportation,Indian Oil Petrol Pump,UPI,Debit,606.77,Monday
+TXN000345,2024-07-08,2024-07,Shopping,Myntra,UPI,Debit,551.73,Monday
+TXN000346,2024-07-08,2024-07,Utilities,Delhi Jal Board,UPI,Debit,250.0,Monday
+TXN000347,2024-07-09,2024-07,Food & Dining,Zomato,Cash,Debit,567.82,Tuesday
+TXN000348,2024-07-10,2024-07,Transportation,Ola,UPI,Debit,229.65,Wednesday
+TXN000349,2024-07-10,2024-07,Food & Dining,Starbucks,Cash,Debit,663.4,Wednesday
+TXN000350,2024-07-10,2024-07,Transportation,Uber,UPI,Debit,207.94,Wednesday
+TXN000351,2024-07-10,2024-07,Insurance,LIC Policy Premium,Net Banking,Debit,2200.0,Wednesday
+TXN000352,2024-07-10,2024-07,Food & Dining,Domino's,Debit Card,Debit,894.02,Wednesday
+TXN000353,2024-07-12,2024-07,Groceries,DMart,Credit Card,Debit,1310.99,Friday
+TXN000354,2024-07-12,2024-07,Subscriptions,Spotify,Credit Card,Debit,119.0,Friday
+TXN000355,2024-07-13,2024-07,Food & Dining,Zomato,Credit Card,Debit,660.93,Saturday
+TXN000356,2024-07-14,2024-07,Healthcare,Apollo Pharmacy,UPI,Debit,784.51,Sunday
+TXN000357,2024-07-14,2024-07,Food & Dining,Swiggy,UPI,Debit,498.1,Sunday
+TXN000358,2024-07-15,2024-07,Subscriptions,Jio Mobile Recharge,Credit Card,Debit,349.0,Monday
+TXN000359,2024-07-15,2024-07,Transportation,Delhi Metro Recharge,UPI,Debit,331.75,Monday
+TXN000360,2024-07-16,2024-07,Shopping,Myntra,Credit Card,Debit,1500.94,Tuesday
+TXN000361,2024-07-16,2024-07,Utilities,BSES Electricity,Credit Card,Debit,3312.84,Tuesday
+TXN000362,2024-07-16,2024-07,Groceries,Zepto,UPI,Debit,334.82,Tuesday
+TXN000363,2024-07-16,2024-07,Healthcare,Dental Clinic,Credit Card,Debit,2086.96,Tuesday
+TXN000364,2024-07-18,2024-07,Transportation,Ola,Credit Card,Debit,291.31,Thursday
+TXN000365,2024-07-18,2024-07,Travel,OYO Rooms,UPI,Debit,4291.55,Thursday
+TXN000366,2024-07-19,2024-07,Transportation,Rapido,UPI,Debit,144.85,Friday
+TXN000367,2024-07-19,2024-07,Groceries,Local Kirana Store,UPI,Debit,265.9,Friday
+TXN000368,2024-07-19,2024-07,Groceries,Local Kirana Store,Cash,Debit,395.05,Friday
+TXN000369,2024-07-20,2024-07,Subscriptions,Amazon Prime,UPI,Debit,299.0,Saturday
+TXN000370,2024-07-20,2024-07,Food & Dining,Domino's,Cash,Debit,657.68,Saturday
+TXN000371,2024-07-20,2024-07,Food & Dining,Domino's,UPI,Debit,672.62,Saturday
+TXN000372,2024-07-20,2024-07,Shopping,Decathlon,Debit Card,Debit,2389.43,Saturday
+TXN000373,2024-07-21,2024-07,Transportation,Delhi Metro Recharge,UPI,Debit,436.35,Sunday
+TXN000374,2024-07-21,2024-07,Shopping,Flipkart,UPI,Debit,1476.25,Sunday
+TXN000375,2024-07-23,2024-07,Education,Udemy,Unknown,Debit,1455.23,Tuesday
+TXN000376,2024-07-23,2024-07,Food & Dining,Swiggy,UPI,Debit,412.86,Tuesday
+TXN000377,2024-07-23,2024-07,Groceries,BigBasket,UPI,Debit,1562.05,Tuesday
+TXN000378,2024-07-23,2024-07,Groceries,DMart,UPI,Debit,1325.44,Tuesday
+TXN000379,2024-07-25,2024-07,Food & Dining,Office Canteen,UPI,Debit,73.89,Thursday
+TXN000380,2024-07-25,2024-07,Groceries,DMart,UPI,Debit,2130.89,Thursday
+TXN000381,2024-07-25,2024-07,Shopping,Myntra,UPI,Debit,1652.49,Thursday
+TXN000382,2024-07-28,2024-07,Groceries,BigBasket,UPI,Debit,930.2,Sunday
+TXN000383,2024-07-30,2024-07,Transportation,Ola,Credit Card,Debit,391.44,Tuesday
+TXN000384,2024-07-30,2024-07,Transportation,Rapido,Cash,Debit,132.57,Tuesday
+TXN000385,2024-07-31,2024-07,Transportation,Delhi Metro Recharge,Credit Card,Debit,409.92,Wednesday
+TXN000386,2024-07-31,2024-07,Groceries,Local Kirana Store,UPI,Debit,304.42,Wednesday
+TXN000387,2024-07-31,2024-07,Education,Coursera,UPI,Debit,2932.33,Wednesday
+TXN000388,2024-07-31,2024-07,Food & Dining,Zomato,Credit Card,Debit,682.91,Wednesday
+TXN000389,2024-08-01,2024-08,Salary,TechNova Pvt Ltd,Net Banking,Credit,68000.0,Thursday
+TXN000390,2024-08-01,2024-08,Food & Dining,Domino's,UPI,Debit,460.3,Thursday
+TXN000391,2024-08-01,2024-08,Groceries,DMart,UPI,Debit,1345.8,Thursday
+TXN000392,2024-08-02,2024-08,Entertainment,Bowling Alley,UPI,Debit,1372.38,Friday
+TXN000393,2024-08-02,2024-08,Transportation,Ola,Credit Card,Debit,322.9,Friday
+TXN000394,2024-08-03,2024-08,Rent,House Rent - Landlord,Net Banking,Debit,15000.0,Saturday
+TXN000395,2024-08-04,2024-08,Entertainment,PVR Cinemas,UPI,Debit,718.88,Sunday
+TXN000396,2024-08-04,2024-08,Groceries,BigBasket,UPI,Debit,1369.04,Sunday
+TXN000397,2024-08-05,2024-08,Utilities,BSES Electricity,UPI,Debit,2894.01,Monday
+TXN000398,2024-08-05,2024-08,Transportation,Indian Oil Petrol Pump,UPI,Debit,523.02,Monday
+TXN000399,2024-08-05,2024-08,Transportation,Indian Oil Petrol Pump,UPI,Debit,1806.4,Monday
+TXN000400,2024-08-05,2024-08,Food & Dining,Domino's,UPI,Debit,747.78,Monday
+TXN000401,2024-08-05,2024-08,Food & Dining,Zomato,UPI,Debit,463.21,Monday
+TXN000402,2024-08-07,2024-08,Subscriptions,Netflix,Credit Card,Debit,649.0,Wednesday
+TXN000403,2024-08-07,2024-08,Groceries,Local Kirana Store,UPI,Debit,347.95,Wednesday
+TXN000404,2024-08-08,2024-08,Groceries,Zepto,UPI,Debit,415.19,Thursday
+TXN000405,2024-08-08,2024-08,Food & Dining,Zomato,Credit Card,Debit,788.08,Thursday
+TXN000406,2024-08-09,2024-08,Transportation,Uber,UPI,Debit,368.83,Friday
+TXN000407,2024-08-09,2024-08,Groceries,Blinkit,UPI,Debit,531.65,Friday
+TXN000408,2024-08-10,2024-08,Insurance,LIC Policy Premium,Net Banking,Debit,2200.0,Saturday
+TXN000409,2024-08-11,2024-08,Food & Dining,Domino's,UPI,Debit,590.6,Sunday
+TXN000410,2024-08-11,2024-08,Transportation,Rapido,Unknown,Debit,93.2,Sunday
+TXN000411,2024-08-12,2024-08,Subscriptions,Spotify,Unknown,Debit,119.0,Monday
+TXN000412,2024-08-13,2024-08,Utilities,Delhi Jal Board,UPI,Debit,250.0,Tuesday
+TXN000413,2024-08-13,2024-08,Food & Dining,Domino's,Debit Card,Debit,757.72,Tuesday
+TXN000414,2024-08-13,2024-08,Transportation,Delhi Metro Recharge,UPI,Debit,386.98,Tuesday
+TXN000415,2024-08-15,2024-08,Subscriptions,Jio Mobile Recharge,Credit Card,Debit,349.0,Thursday
+TXN000416,2024-08-15,2024-08,Groceries,DMart,UPI,Debit,2826.41,Thursday
+TXN000417,2024-08-15,2024-08,Utilities,Airtel Broadband,Credit Card,Debit,799.0,Thursday
+TXN000418,2024-08-15,2024-08,Food & Dining,Starbucks,UPI,Debit,646.1,Thursday
+TXN000419,2024-08-16,2024-08,Food & Dining,Starbucks,UPI,Debit,633.89,Friday
+TXN000420,2024-08-18,2024-08,Groceries,BigBasket,UPI,Debit,827.47,Sunday
+TXN000421,2024-08-18,2024-08,Utilities,Indraprastha Gas (PNG),UPI,Debit,450.0,Sunday
+TXN000422,2024-08-19,2024-08,Transportation,Ola,Debit Card,Debit,326.03,Monday
+TXN000423,2024-08-20,2024-08,Subscriptions,Amazon Prime,Credit Card,Debit,299.0,Tuesday
+TXN000424,2024-08-20,2024-08,Food & Dining,Starbucks,UPI,Debit,376.24,Tuesday
+TXN000425,2024-08-21,2024-08,Groceries,Local Kirana Store,UPI,Debit,172.86,Wednesday
+TXN000426,2024-08-22,2024-08,Entertainment,PVR Cinemas,UPI,Debit,549.55,Thursday
+TXN000427,2024-08-22,2024-08,Transportation,Indian Oil Petrol Pump,UPI,Debit,1079.12,Thursday
+TXN000428,2024-08-22,2024-08,Food & Dining,Domino's,UPI,Debit,647.95,Thursday
+TXN000429,2024-08-23,2024-08,Groceries,DMart,Credit Card,Debit,1796.1,Friday
+TXN000430,2024-08-23,2024-08,Groceries,Zepto,UPI,Debit,669.55,Friday
+TXN000431,2024-08-23,2024-08,Healthcare,Apollo Pharmacy,UPI,Debit,748.97,Friday
+TXN000432,2024-08-24,2024-08,Entertainment,Steam Games,UPI,Debit,1796.14,Saturday
+TXN000433,2024-08-24,2024-08,Transportation,Indian Oil Petrol Pump,Cash,Debit,565.47,Saturday
+TXN000434,2024-08-25,2024-08,Groceries,Local Kirana Store,UPI,Debit,475.25,Sunday
+TXN000435,2024-08-25,2024-08,Freelance,Upwork Client,UPI,Credit,10300.0,Sunday
+TXN000436,2024-08-25,2024-08,Groceries,Zepto,UPI,Debit,385.16,Sunday
+TXN000437,2024-08-26,2024-08,Food & Dining,Starbucks,UPI,Debit,435.95,Monday
+TXN000438,2024-08-26,2024-08,Food & Dining,Swiggy,UPI,Debit,337.46,Monday
+TXN000439,2024-08-26,2024-08,Transportation,Indian Oil Petrol Pump,UPI,Debit,1557.84,Monday
+TXN000440,2024-08-27,2024-08,Food & Dining,Haldiram's,UPI,Debit,939.75,Tuesday
+TXN000441,2024-08-28,2024-08,Food & Dining,Starbucks,UPI,Debit,673.14,Wednesday
+TXN000442,2024-08-28,2024-08,Transportation,Uber,UPI,Debit,571.44,Wednesday
+TXN000443,2024-08-28,2024-08,Transportation,Delhi Metro Recharge,UPI,Debit,460.91,Wednesday
+TXN000444,2024-08-28,2024-08,Transportation,Rapido,Credit Card,Debit,93.62,Wednesday
+TXN000445,2024-08-30,2024-08,Transportation,Indian Oil Petrol Pump,UPI,Debit,649.57,Friday
+TXN000446,2024-09-01,2024-09,Food & Dining,Office Canteen,Cash,Debit,115.41,Sunday
+TXN000447,2024-09-01,2024-09,Salary,TechNova Pvt Ltd,Net Banking,Credit,68000.0,Sunday
+TXN000448,2024-09-01,2024-09,Groceries,Local Kirana Store,UPI,Debit,253.2,Sunday
+TXN000449,2024-09-03,2024-09,Rent,House Rent - Landlord,Net Banking,Debit,15000.0,Tuesday
+TXN000450,2024-09-05,2024-09,Groceries,Local Kirana Store,UPI,Debit,647.7,Thursday
+TXN000451,2024-09-06,2024-09,Groceries,Zepto,Cash,Debit,593.17,Friday
+TXN000452,2024-09-06,2024-09,Transportation,Delhi Metro Recharge,UPI,Debit,424.24,Friday
+TXN000453,2024-09-07,2024-09,Utilities,BSES Electricity,Net Banking,Debit,2759.85,Saturday
+TXN000454,2024-09-07,2024-09,Subscriptions,Netflix,Credit Card,Debit,649.0,Saturday
+TXN000455,2024-09-08,2024-09,Transportation,Delhi Metro Recharge,Cash,Debit,432.72,Sunday
+TXN000456,2024-09-08,2024-09,Groceries,Local Kirana Store,UPI,Debit,471.83,Sunday
+TXN000457,2024-09-08,2024-09,Transportation,Rapido,UPI,Debit,152.27,Sunday
+TXN000458,2024-09-08,2024-09,Utilities,Airtel Broadband,UPI,Debit,799.0,Sunday
+TXN000459,2024-09-09,2024-09,Groceries,DMart,UPI,Debit,1706.76,Monday
+TXN000460,2024-09-09,2024-09,Entertainment,Steam Games,UPI,Debit,1545.71,Monday
+TXN000461,2024-09-10,2024-09,Food & Dining,Domino's,UPI,Debit,515.38,Tuesday
+TXN000462,2024-09-10,2024-09,Entertainment,Bowling Alley,UPI,Debit,1467.38,Tuesday
+TXN000463,2024-09-10,2024-09,Transportation,Ola,UPI,Debit,140.56,Tuesday
+TXN000464,2024-09-10,2024-09,Food & Dining,Haldiram's,Credit Card,Debit,1188.27,Tuesday
+TXN000465,2024-09-10,2024-09,Food & Dining,Haldiram's,UPI,Debit,683.99,Tuesday
+TXN000466,2024-09-10,2024-09,Insurance,LIC Policy Premium,Net Banking,Debit,2200.0,Tuesday
+TXN000467,2024-09-11,2024-09,Freelance,Upwork Client,UPI,Credit,15300.0,Wednesday
+TXN000468,2024-09-11,2024-09,Utilities,Delhi Jal Board,UPI,Debit,250.0,Wednesday
+TXN000469,2024-09-12,2024-09,Subscriptions,Spotify,Credit Card,Debit,119.0,Thursday
+TXN000470,2024-09-13,2024-09,Food & Dining,Starbucks,Cash,Debit,342.66,Friday
+TXN000471,2024-09-13,2024-09,Utilities,Indraprastha Gas (PNG),UPI,Debit,450.0,Friday
+TXN000472,2024-09-15,2024-09,Transportation,Uber,Debit Card,Debit,283.73,Sunday
+TXN000473,2024-09-15,2024-09,Subscriptions,Jio Mobile Recharge,UPI,Debit,349.0,Sunday
+TXN000474,2024-09-15,2024-09,Groceries,Zepto,UPI,Debit,252.68,Sunday
+TXN000475,2024-09-18,2024-09,Transportation,Ola,UPI,Debit,159.47,Wednesday
+TXN000476,2024-09-20,2024-09,Groceries,DMart,UPI,Debit,1020.17,Friday
+TXN000477,2024-09-20,2024-09,Subscriptions,Amazon Prime,Credit Card,Debit,299.0,Friday
+TXN000478,2024-09-22,2024-09,Groceries,Local Kirana Store,UPI,Debit,640.73,Sunday
+TXN000479,2024-09-22,2024-09,Transportation,Ola,UPI,Debit,379.4,Sunday
+TXN000480,2024-09-23,2024-09,Food & Dining,Office Canteen,UPI,Debit,194.68,Monday
+TXN000481,2024-09-24,2024-09,Transportation,Uber,Unknown,Debit,427.17,Tuesday
+TXN000482,2024-09-25,2024-09,Food & Dining,Domino's,Credit Card,Debit,819.04,Wednesday
+TXN000483,2024-09-27,2024-09,Transportation,Rapido,Debit Card,Debit,144.32,Friday
+TXN000484,2024-09-27,2024-09,Food & Dining,Office Canteen,UPI,Debit,101.33,Friday
+TXN000485,2024-09-28,2024-09,Food & Dining,Zomato,UPI,Debit,799.61,Saturday
+TXN000486,2024-09-28,2024-09,Interest,Bank Interest,Net Banking,Credit,834.69,Saturday
+TXN000487,2024-09-29,2024-09,Transportation,Ola,UPI,Debit,382.71,Sunday
+TXN000488,2024-09-30,2024-09,Shopping,Myntra,UPI,Debit,1561.7,Monday
+TXN000489,2024-09-30,2024-09,Food & Dining,Office Canteen,Credit Card,Debit,196.3,Monday
+TXN000490,2024-10-01,2024-10,Shopping,Flipkart,Debit Card,Debit,1772.13,Tuesday
+TXN000491,2024-10-01,2024-10,Salary,TechNova Pvt Ltd,Net Banking,Credit,68000.0,Tuesday
+TXN000492,2024-10-02,2024-10,Transportation,Rapido,Credit Card,Debit,175.95,Wednesday
+TXN000493,2024-10-03,2024-10,Rent,House Rent - Landlord,Net Banking,Debit,15000.0,Thursday
+TXN000494,2024-10-04,2024-10,Freelance,Upwork Client,UPI,Credit,11100.0,Friday
+TXN000495,2024-10-04,2024-10,Transportation,Ola,UPI,Debit,484.95,Friday
+TXN000496,2024-10-04,2024-10,Shopping,Myntra,UPI,Debit,2097.03,Friday
+TXN000497,2024-10-04,2024-10,Entertainment,Steam Games,Credit Card,Debit,1069.86,Friday
+TXN000498,2024-10-05,2024-10,Transportation,Delhi Metro Recharge,UPI,Debit,273.07,Saturday
+TXN000499,2024-10-05,2024-10,Transportation,Ola,Credit Card,Debit,247.85,Saturday
+TXN000500,2024-10-05,2024-10,Food & Dining,Domino's,UPI,Debit,968.97,Saturday
+TXN000501,2024-10-05,2024-10,Food & Dining,Office Canteen,Credit Card,Debit,152.31,Saturday
+TXN000502,2024-10-05,2024-10,Shopping,Flipkart,Credit Card,Debit,963.42,Saturday
+TXN000503,2024-10-07,2024-10,Transportation,Rapido,Credit Card,Debit,69.0,Monday
+TXN000504,2024-10-07,2024-10,Transportation,Indian Oil Petrol Pump,UPI,Debit,637.51,Monday
+TXN000505,2024-10-07,2024-10,Subscriptions,Netflix,Debit Card,Debit,649.0,Monday
+TXN000506,2024-10-08,2024-10,Groceries,Blinkit,UPI,Debit,231.26,Tuesday
+TXN000507,2024-10-08,2024-10,Utilities,Airtel Broadband,UPI,Debit,799.0,Tuesday
+TXN000508,2024-10-08,2024-10,Food & Dining,Starbucks,UPI,Debit,450.38,Tuesday
+TXN000509,2024-10-09,2024-10,Transportation,Delhi Metro Recharge,UPI,Debit,218.17,Wednesday
+TXN000510,2024-10-10,2024-10,Food & Dining,Starbucks,UPI,Debit,862.88,Thursday
+TXN000511,2024-10-10,2024-10,Food & Dining,Swiggy,UPI,Debit,935.18,Thursday
+TXN000512,2024-10-10,2024-10,Insurance,LIC Policy Premium,Net Banking,Debit,2200.0,Thursday
+TXN000513,2024-10-12,2024-10,Shopping,Amazon,UPI,Debit,655.87,Saturday
+TXN000514,2024-10-12,2024-10,Subscriptions,Spotify,Credit Card,Debit,119.0,Saturday
+TXN000515,2024-10-12,2024-10,Food & Dining,Haldiram's,UPI,Debit,365.4,Saturday
+TXN000516,2024-10-14,2024-10,Food & Dining,Office Canteen,Debit Card,Debit,250.17,Monday
+TXN000517,2024-10-15,2024-10,Food & Dining,Domino's,UPI,Debit,495.82,Tuesday
+TXN000518,2024-10-15,2024-10,Utilities,Delhi Jal Board,UPI,Debit,250.0,Tuesday
+TXN000519,2024-10-15,2024-10,Subscriptions,Jio Mobile Recharge,UPI,Debit,349.0,Tuesday
+TXN000520,2024-10-16,2024-10,Refund,Amazon,UPI,Credit,2164.06,Wednesday
+TXN000521,2024-10-17,2024-10,Utilities,BSES Electricity,Net Banking,Debit,987.11,Thursday
+TXN000522,2024-10-18,2024-10,Transportation,Ola,UPI,Debit,544.39,Friday
+TXN000523,2024-10-18,2024-10,Groceries,Local Kirana Store,Credit Card,Debit,108.35,Friday
+TXN000524,2024-10-18,2024-10,Utilities,Indraprastha Gas (PNG),UPI,Debit,450.0,Friday
+TXN000525,2024-10-20,2024-10,Groceries,Zepto,UPI,Debit,363.2,Sunday
+TXN000526,2024-10-20,2024-10,Subscriptions,Amazon Prime,Unknown,Debit,299.0,Sunday
+TXN000527,2024-10-21,2024-10,Transportation,Delhi Metro Recharge,Cash,Debit,363.34,Monday
+TXN000528,2024-10-21,2024-10,Food & Dining,Zomato,Credit Card,Debit,756.01,Monday
+TXN000529,2024-10-22,2024-10,Groceries,BigBasket,UPI,Debit,1355.05,Tuesday
+TXN000530,2024-10-24,2024-10,Food & Dining,Haldiram's,UPI,Debit,1153.05,Thursday
+TXN000531,2024-10-24,2024-10,Shopping,Decathlon,UPI,Debit,1910.0,Thursday
+TXN000532,2024-10-25,2024-10,Shopping,Amazon,Credit Card,Debit,1585.86,Friday
+TXN000533,2024-10-26,2024-10,Groceries,Zepto,UPI,Debit,387.75,Saturday
+TXN000534,2024-10-26,2024-10,Groceries,Local Kirana Store,Debit Card,Debit,680.36,Saturday
+TXN000535,2024-10-26,2024-10,Education,Amazon Books,UPI,Debit,352.04,Saturday
+TXN000536,2024-10-27,2024-10,Transportation,Rapido,UPI,Debit,68.73,Sunday
+TXN000537,2024-10-27,2024-10,Food & Dining,Starbucks,UPI,Debit,730.56,Sunday
+TXN000538,2024-10-27,2024-10,Groceries,Blinkit,Credit Card,Debit,588.42,Sunday
+TXN000539,2024-10-28,2024-10,Transportation,Rapido,UPI,Debit,40.4,Monday
+TXN000540,2024-10-29,2024-10,Groceries,Local Kirana Store,UPI,Debit,115.01,Tuesday
+TXN000541,2024-10-31,2024-10,Travel,IndiGo Airlines,Credit Card,Debit,6019.23,Thursday
+TXN000542,2024-10-31,2024-10,Transportation,Ola,UPI,Debit,535.69,Thursday
+TXN000543,2024-10-31,2024-10,Food & Dining,Starbucks,Credit Card,Debit,710.14,Thursday
+TXN000544,2024-10-31,2024-10,Transportation,Ola,UPI,Debit,299.52,Thursday
+TXN000545,2024-10-31,2024-10,Entertainment,Bowling Alley,UPI,Debit,1003.84,Thursday
+TXN000546,2024-11-01,2024-11,Salary,TechNova Pvt Ltd,Net Banking,Credit,68000.0,Friday
+TXN000547,2024-11-01,2024-11,Shopping,Flipkart,Credit Card,Debit,2152.42,Friday
+TXN000548,2024-11-02,2024-11,Entertainment,BookMyShow,UPI,Debit,1959.76,Saturday
+TXN000549,2024-11-03,2024-11,Transportation,Rapido,Cash,Debit,132.03,Sunday
+TXN000550,2024-11-03,2024-11,Rent,House Rent - Landlord,Net Banking,Debit,15000.0,Sunday
+TXN000551,2024-11-03,2024-11,Food & Dining,Swiggy,UPI,Debit,850.34,Sunday
+TXN000552,2024-11-03,2024-11,Groceries,Blinkit,UPI,Debit,606.22,Sunday
+TXN000553,2024-11-03,2024-11,Food & Dining,Office Canteen,Unknown,Debit,245.98,Sunday
+TXN000555,2024-11-04,2024-11,Food & Dining,Domino's,Cash,Debit,647.12,Monday
+TXN000556,2024-11-04,2024-11,Food & Dining,Starbucks,UPI,Debit,506.61,Monday
+TXN000557,2024-11-05,2024-11,Transportation,Uber,UPI,Debit,216.14,Tuesday
+TXN000558,2024-11-05,2024-11,Entertainment,PVR Cinemas,UPI,Debit,1100.84,Tuesday
+TXN000559,2024-11-05,2024-11,Food & Dining,Haldiram's,UPI,Debit,787.26,Tuesday
+TXN000560,2024-11-06,2024-11,Utilities,Delhi Jal Board,UPI,Debit,250.0,Wednesday
+TXN000561,2024-11-06,2024-11,Utilities,Indraprastha Gas (PNG),UPI,Debit,450.0,Wednesday
+TXN000562,2024-11-07,2024-11,Groceries,Zepto,Cash,Debit,618.55,Thursday
+TXN000563,2024-11-07,2024-11,Subscriptions,Netflix,Credit Card,Debit,649.0,Thursday
+TXN000564,2024-11-07,2024-11,Shopping,Amazon,Debit Card,Debit,2314.5,Thursday
+TXN000565,2024-11-08,2024-11,Groceries,Local Kirana Store,Credit Card,Debit,370.93,Friday
+TXN000566,2024-11-09,2024-11,Transportation,Delhi Metro Recharge,UPI,Debit,208.69,Saturday
+TXN000567,2024-11-10,2024-11,Insurance,LIC Policy Premium,Net Banking,Debit,2200.0,Sunday
+TXN000568,2024-11-11,2024-11,Groceries,Zepto,Debit Card,Debit,506.43,Monday
+TXN000569,2024-11-11,2024-11,Shopping,Decathlon,UPI,Debit,1665.61,Monday
+TXN000570,2024-11-12,2024-11,Transportation,Delhi Metro Recharge,Debit Card,Debit,476.46,Tuesday
+TXN000571,2024-11-12,2024-11,Food & Dining,Haldiram's,UPI,Debit,1369.04,Tuesday
+TXN000572,2024-11-12,2024-11,Utilities,Airtel Broadband,UPI,Debit,799.0,Tuesday
+TXN000573,2024-11-12,2024-11,Subscriptions,Spotify,Debit Card,Debit,119.0,Tuesday
+TXN000574,2024-11-15,2024-11,Healthcare,Dental Clinic,Credit Card,Debit,1714.15,Friday
+TXN000575,2024-11-15,2024-11,Subscriptions,Jio Mobile Recharge,Credit Card,Debit,349.0,Friday
+TXN000576,2024-11-15,2024-11,Food & Dining,Starbucks,UPI,Debit,566.24,Friday
+TXN000577,2024-11-16,2024-11,Utilities,BSES Electricity,Credit Card,Debit,998.87,Saturday
+TXN000578,2024-11-17,2024-11,Groceries,Local Kirana Store,Cash,Debit,696.78,Sunday
+TXN000579,2024-11-18,2024-11,Food & Dining,Haldiram's,UPI,Debit,1327.54,Monday
+TXN000580,2024-11-18,2024-11,Food & Dining,Swiggy,UPI,Debit,668.57,Monday
+TXN000581,2024-11-19,2024-11,Shopping,Myntra,Credit Card,Debit,2053.67,Tuesday
+TXN000582,2024-11-19,2024-11,Food & Dining,Haldiram's,UPI,Debit,759.28,Tuesday
+TXN000583,2024-11-19,2024-11,Transportation,Uber,UPI,Debit,524.18,Tuesday
+TXN000584,2024-11-20,2024-11,Subscriptions,Amazon Prime,Credit Card,Debit,299.0,Wednesday
+TXN000585,2024-11-20,2024-11,Food & Dining,Swiggy,Unknown,Debit,951.58,Wednesday
+TXN000586,2024-11-20,2024-11,Groceries,Blinkit,Unknown,Debit,490.29,Wednesday
+TXN000587,2024-11-21,2024-11,Transportation,Rapido,UPI,Debit,125.9,Thursday
+TXN000588,2024-11-21,2024-11,Groceries,BigBasket,UPI,Debit,2190.86,Thursday
+TXN000589,2024-11-21,2024-11,Groceries,DMart,UPI,Debit,1260.04,Thursday
+TXN000590,2024-11-22,2024-11,Entertainment,PVR Cinemas,UPI,Debit,581.29,Friday
+TXN000591,2024-11-22,2024-11,Food & Dining,Domino's,UPI,Debit,555.94,Friday
+TXN000592,2024-11-22,2024-11,Food & Dining,Starbucks,UPI,Debit,573.87,Friday
+TXN000593,2024-11-22,2024-11,Food & Dining,Haldiram's,UPI,Debit,852.05,Friday
+TXN000594,2024-11-23,2024-11,Groceries,Local Kirana Store,UPI,Debit,159.51,Saturday
+TXN000595,2024-11-24,2024-11,Food & Dining,Starbucks,UPI,Debit,841.41,Sunday
+TXN000596,2024-11-24,2024-11,Food & Dining,Starbucks,UPI,Debit,440.21,Sunday
+TXN000597,2024-11-24,2024-11,Shopping,Flipkart,UPI,Debit,1225.13,Sunday
+TXN000598,2024-11-27,2024-11,Transportation,Rapido,UPI,Debit,176.44,Wednesday
+TXN000599,2024-11-28,2024-11,Transportation,Ola,Cash,Debit,463.25,Thursday
+TXN000600,2024-11-30,2024-11,Transportation,Rapido,Unknown,Debit,43.68,Saturday
+TXN000601,2024-12-01,2024-12,Salary,TechNova Pvt Ltd,Net Banking,Credit,68000.0,Sunday
+TXN000602,2024-12-01,2024-12,Food & Dining,Haldiram's,Debit Card,Debit,467.24,Sunday
+TXN000603,2024-12-01,2024-12,Food & Dining,Office Canteen,Debit Card,Debit,85.7,Sunday
+TXN000604,2024-12-03,2024-12,Transportation,Delhi Metro Recharge,Credit Card,Debit,433.74,Tuesday
+TXN000605,2024-12-03,2024-12,Transportation,Delhi Metro Recharge,Cash,Debit,245.29,Tuesday
+TXN000606,2024-12-03,2024-12,Rent,House Rent - Landlord,Net Banking,Debit,15000.0,Tuesday
+TXN000607,2024-12-05,2024-12,Food & Dining,Office Canteen,Debit Card,Debit,156.38,Thursday
+TXN000608,2024-12-05,2024-12,Transportation,Ola,UPI,Debit,206.32,Thursday
+TXN000609,2024-12-07,2024-12,Subscriptions,Netflix,Credit Card,Debit,649.0,Saturday
+TXN000610,2024-12-07,2024-12,Groceries,Zepto,UPI,Debit,185.61,Saturday
+TXN000611,2024-12-08,2024-12,Food & Dining,Haldiram's,UPI,Debit,1246.07,Sunday
+TXN000612,2024-12-08,2024-12,Food & Dining,Starbucks,UPI,Debit,666.94,Sunday
+TXN000613,2024-12-10,2024-12,Insurance,LIC Policy Premium,Debit Card,Debit,2200.0,Tuesday
+TXN000614,2024-12-10,2024-12,Transportation,Indian Oil Petrol Pump,Debit Card,Debit,1163.31,Tuesday
+TXN000615,2024-12-10,2024-12,Groceries,DMart,UPI,Debit,2433.99,Tuesday
+TXN000616,2024-12-12,2024-12,Subscriptions,Spotify,Credit Card,Debit,119.0,Thursday
+TXN000617,2024-12-12,2024-12,Shopping,Myntra,Debit Card,Debit,1682.84,Thursday
+TXN000618,2024-12-12,2024-12,Utilities,Indraprastha Gas (PNG),Unknown,Debit,720.0,Thursday
+TXN000619,2024-12-12,2024-12,Entertainment,Bowling Alley,UPI,Debit,537.61,Thursday
+TXN000620,2024-12-13,2024-12,Groceries,Blinkit,Unknown,Debit,184.06,Friday
+TXN000621,2024-12-13,2024-12,Utilities,Delhi Jal Board,Net Banking,Debit,250.0,Friday
+TXN000622,2024-12-13,2024-12,Food & Dining,Starbucks,UPI,Debit,662.46,Friday
+TXN000623,2024-12-14,2024-12,Utilities,Airtel Broadband,UPI,Debit,799.0,Saturday
+TXN000624,2024-12-14,2024-12,Food & Dining,Starbucks,UPI,Debit,758.94,Saturday
+TXN000625,2024-12-15,2024-12,Utilities,BSES Electricity,Credit Card,Debit,1061.97,Sunday
+TXN000626,2024-12-15,2024-12,Shopping,Croma,UPI,Debit,2056.43,Sunday
+TXN000627,2024-12-15,2024-12,Subscriptions,Jio Mobile Recharge,Credit Card,Debit,349.0,Sunday
+TXN000628,2024-12-16,2024-12,Groceries,Blinkit,UPI,Debit,239.99,Monday
+TXN000629,2024-12-17,2024-12,Healthcare,Apollo Pharmacy,Credit Card,Debit,980.26,Tuesday
+TXN000630,2024-12-17,2024-12,Transportation,Rapido,Credit Card,Debit,128.65,Tuesday
+TXN000631,2024-12-17,2024-12,Freelance,Upwork Client,Unknown,Credit,6500.0,Tuesday
+TXN000632,2024-12-18,2024-12,Education,Coursera,UPI,Debit,3194.07,Wednesday
+TXN000633,2024-12-19,2024-12,Transportation,Indian Oil Petrol Pump,UPI,Debit,1195.93,Thursday
+TXN000634,2024-12-19,2024-12,Food & Dining,Swiggy,Unknown,Debit,414.3,Thursday
+TXN000635,2024-12-19,2024-12,Food & Dining,Haldiram's,Credit Card,Debit,1036.06,Thursday
+TXN000636,2024-12-20,2024-12,Transportation,Rapido,UPI,Debit,130.02,Friday
+TXN000637,2024-12-20,2024-12,Transportation,Delhi Metro Recharge,UPI,Debit,259.18,Friday
+TXN000638,2024-12-20,2024-12,Subscriptions,Amazon Prime,Credit Card,Debit,299.0,Friday
+TXN000639,2024-12-21,2024-12,Transportation,Ola,UPI,Debit,442.1,Saturday
+TXN000640,2024-12-21,2024-12,Transportation,Delhi Metro Recharge,UPI,Debit,459.27,Saturday
+TXN000641,2024-12-22,2024-12,Food & Dining,Domino's,UPI,Debit,825.8,Sunday
+TXN000642,2024-12-23,2024-12,Food & Dining,Domino's,UPI,Debit,748.88,Monday
+TXN000643,2024-12-25,2024-12,Transportation,Rapido,UPI,Debit,67.15,Wednesday
+TXN000644,2024-12-25,2024-12,Transportation,Uber,UPI,Debit,213.89,Wednesday
+TXN000645,2024-12-25,2024-12,Groceries,Blinkit,Debit Card,Debit,858.99,Wednesday
+TXN000646,2024-12-26,2024-12,Travel,IRCTC,Credit Card,Debit,1904.23,Thursday
+TXN000647,2024-12-28,2024-12,Interest,Bank Interest,Net Banking,Credit,943.93,Saturday
+TXN000648,2024-12-28,2024-12,Healthcare,Max Hospital,UPI,Debit,1122.27,Saturday
+TXN000649,2024-12-28,2024-12,Food & Dining,Starbucks,Credit Card,Debit,869.0,Saturday
+TXN000650,2024-12-28,2024-12,Food & Dining,Haldiram's,Credit Card,Debit,433.84,Saturday
+TXN000651,2024-12-28,2024-12,Food & Dining,Haldiram's,UPI,Debit,414.01,Saturday
+TXN000652,2024-12-30,2024-12,Transportation,Rapido,UPI,Debit,102.85,Monday
+TXN000653,2024-12-31,2024-12,Food & Dining,Haldiram's,UPI,Debit,537.26,Tuesday
+TXN000654,2024-12-31,2024-12,Transportation,Delhi Metro Recharge,UPI,Debit,305.33,Tuesday
+TXN000655,2025-01-01,2025-01,Salary,TechNova Pvt Ltd,Net Banking,Credit,68000.0,Wednesday
+TXN000656,2025-01-02,2025-01,Groceries,Zepto,Debit Card,Debit,569.98,Thursday
+TXN000657,2025-01-02,2025-01,Travel,MakeMyTrip,UPI,Debit,10857.02,Thursday
+TXN000658,2025-01-03,2025-01,Food & Dining,Office Canteen,UPI,Debit,187.74,Friday
+TXN000659,2025-01-03,2025-01,Food & Dining,Domino's,UPI,Debit,725.3,Friday
+TXN000660,2025-01-03,2025-01,Groceries,Blinkit,UPI,Debit,886.79,Friday
+TXN000661,2025-01-03,2025-01,Rent,House Rent - Landlord,UPI,Debit,15750.0,Friday
+TXN000662,2025-01-04,2025-01,Groceries,Blinkit,UPI,Debit,199.43,Saturday
+TXN000663,2025-01-05,2025-01,Utilities,BSES Electricity,Net Banking,Debit,1014.31,Sunday
+TXN000664,2025-01-05,2025-01,Food & Dining,Starbucks,UPI,Debit,376.8,Sunday
+TXN000665,2025-01-05,2025-01,Food & Dining,Office Canteen,UPI,Debit,152.7,Sunday
+TXN000666,2025-01-05,2025-01,Food & Dining,Swiggy,Cash,Debit,512.16,Sunday
+TXN000667,2025-01-06,2025-01,Utilities,Indraprastha Gas (PNG),UPI,Debit,720.0,Monday
+TXN000668,2025-01-06,2025-01,Groceries,Zepto,UPI,Debit,489.79,Monday
+TXN000669,2025-01-06,2025-01,Transportation,Rapido,Credit Card,Debit,153.27,Monday
+TXN000670,2025-01-07,2025-01,Entertainment,Bowling Alley,Credit Card,Debit,1403.97,Tuesday
+TXN000671,2025-01-07,2025-01,Subscriptions,Netflix,Credit Card,Debit,649.0,Tuesday
+TXN000672,2025-01-08,2025-01,Shopping,Decathlon,Credit Card,Debit,1238.21,Wednesday
+TXN000673,2025-01-10,2025-01,Groceries,Zepto,Debit Card,Debit,590.95,Friday
+TXN000674,2025-01-10,2025-01,Healthcare,Dental Clinic,UPI,Debit,1654.2,Friday
+TXN000675,2025-01-10,2025-01,Food & Dining,Haldiram's,UPI,Debit,267.32,Friday
+TXN000676,2025-01-10,2025-01,Groceries,Blinkit,UPI,Debit,429.64,Friday
+TXN000677,2025-01-10,2025-01,Insurance,LIC Policy Premium,Net Banking,Debit,2200.0,Friday
+TXN000678,2025-01-11,2025-01,Transportation,Rapido,UPI,Debit,45.28,Saturday
+TXN000679,2025-01-11,2025-01,Food & Dining,Domino's,Debit Card,Debit,823.97,Saturday
+TXN000680,2025-01-11,2025-01,Groceries,Local Kirana Store,UPI,Debit,345.26,Saturday
+TXN000681,2025-01-11,2025-01,Food & Dining,Zomato,Credit Card,Debit,769.72,Saturday
+TXN000682,2025-01-12,2025-01,Utilities,Airtel Broadband,UPI,Debit,799.0,Sunday
+TXN000683,2025-01-12,2025-01,Subscriptions,Spotify,Credit Card,Debit,119.0,Sunday
+TXN000684,2025-01-12,2025-01,Transportation,Indian Oil Petrol Pump,Debit Card,Debit,565.54,Sunday
+TXN000685,2025-01-13,2025-01,Transportation,Rapido,UPI,Debit,58.35,Monday
+TXN000686,2025-01-14,2025-01,Healthcare,Dental Clinic,UPI,Debit,1757.27,Tuesday
+TXN000687,2025-01-15,2025-01,Groceries,DMart,UPI,Debit,2298.29,Wednesday
+TXN000688,2025-01-15,2025-01,Subscriptions,Jio Mobile Recharge,Credit Card,Debit,349.0,Wednesday
+TXN000689,2025-01-17,2025-01,Utilities,Delhi Jal Board,UPI,Debit,250.0,Friday
+TXN000690,2025-01-17,2025-01,Food & Dining,Office Canteen,UPI,Debit,153.86,Friday
+TXN000691,2025-01-18,2025-01,Transportation,Uber,Debit Card,Debit,389.08,Saturday
+TXN000692,2025-01-19,2025-01,Healthcare,Max Hospital,Credit Card,Debit,3648.89,Sunday
+TXN000693,2025-01-20,2025-01,Freelance,Upwork Client,UPI,Credit,11200.0,Monday
+TXN000694,2025-01-20,2025-01,Shopping,Flipkart,Credit Card,Debit,2723.97,Monday
+TXN000695,2025-01-20,2025-01,Subscriptions,Amazon Prime,Credit Card,Debit,299.0,Monday
+TXN000696,2025-01-21,2025-01,Groceries,Zepto,UPI,Debit,184.04,Tuesday
+TXN000697,2025-01-21,2025-01,Food & Dining,Haldiram's,UPI,Debit,780.98,Tuesday
+TXN000698,2025-01-21,2025-01,Food & Dining,Haldiram's,Debit Card,Debit,544.72,Tuesday
+TXN000699,2025-01-22,2025-01,Groceries,Blinkit,UPI,Debit,692.8,Wednesday
+TXN000700,2025-01-22,2025-01,Food & Dining,Haldiram's,UPI,Debit,1022.53,Wednesday
+TXN000701,2025-01-24,2025-01,Food & Dining,Office Canteen,UPI,Debit,176.05,Friday
+TXN000702,2025-01-26,2025-01,Entertainment,Steam Games,UPI,Debit,1748.39,Sunday
+TXN000703,2025-01-26,2025-01,Education,Udemy,Cash,Debit,2941.34,Sunday
+TXN000704,2025-01-26,2025-01,Shopping,Myntra,Debit Card,Debit,2004.78,Sunday
+TXN000705,2025-01-27,2025-01,Transportation,Ola,Credit Card,Debit,173.01,Monday
+TXN000706,2025-01-28,2025-01,Transportation,Ola,UPI,Debit,134.72,Tuesday
+TXN000707,2025-02-01,2025-02,Transportation,Ola,Cash,Debit,231.07,Saturday
+TXN000708,2025-02-01,2025-02,Food & Dining,Swiggy,Credit Card,Debit,696.34,Saturday
+TXN000709,2025-02-01,2025-02,Transportation,Delhi Metro Recharge,UPI,Debit,276.1,Saturday
+TXN000710,2025-02-01,2025-02,Groceries,BigBasket,UPI,Debit,1187.32,Saturday
+TXN000711,2025-02-01,2025-02,Transportation,Indian Oil Petrol Pump,UPI,Debit,1395.11,Saturday
+TXN000712,2025-02-01,2025-02,Salary,TechNova Pvt Ltd,Net Banking,Credit,68000.0,Saturday
+TXN000713,2025-02-02,2025-02,Entertainment,PVR Cinemas,UPI,Debit,1022.44,Sunday
+TXN000714,2025-02-03,2025-02,Shopping,Flipkart,Credit Card,Debit,2328.74,Monday
+TXN000715,2025-02-03,2025-02,Rent,House Rent - Landlord,UPI,Debit,15750.0,Monday
+TXN000716,2025-02-03,2025-02,Groceries,DMart,UPI,Debit,2594.51,Monday
+TXN000717,2025-02-04,2025-02,Transportation,Rapido,UPI,Debit,104.0,Tuesday
+TXN000718,2025-02-04,2025-02,Food & Dining,Haldiram's,Cash,Debit,475.76,Tuesday
+TXN000719,2025-02-05,2025-02,Food & Dining,Haldiram's,UPI,Debit,454.87,Wednesday
+TXN000720,2025-02-05,2025-02,Food & Dining,Starbucks,UPI,Debit,578.43,Wednesday
+TXN000721,2025-02-06,2025-02,Utilities,BSES Electricity,UPI,Debit,1159.63,Thursday
+TXN000722,2025-02-07,2025-02,Subscriptions,Netflix,Credit Card,Debit,649.0,Friday
+TXN000723,2025-02-07,2025-02,Entertainment,Bowling Alley,Cash,Debit,536.98,Friday
+TXN000724,2025-02-10,2025-02,Food & Dining,Zomato,UPI,Debit,265.31,Monday
+TXN000725,2025-02-10,2025-02,Insurance,LIC Policy Premium,Net Banking,Debit,2200.0,Monday
+TXN000726,2025-02-11,2025-02,Travel,IRCTC,Credit Card,Debit,3110.82,Tuesday
+TXN000727,2025-02-12,2025-02,Transportation,Delhi Metro Recharge,UPI,Debit,240.02,Wednesday
+TXN000728,2025-02-12,2025-02,Transportation,Delhi Metro Recharge,UPI,Debit,436.56,Wednesday
+TXN000729,2025-02-12,2025-02,Groceries,DMart,Debit Card,Debit,2560.09,Wednesday
+TXN000730,2025-02-12,2025-02,Subscriptions,Spotify,Credit Card,Debit,119.0,Wednesday
+TXN000731,2025-02-12,2025-02,Transportation,Uber,UPI,Debit,397.45,Wednesday
+TXN000732,2025-02-13,2025-02,Groceries,Zepto,UPI,Debit,393.07,Thursday
+TXN000733,2025-02-13,2025-02,Utilities,Delhi Jal Board,Credit Card,Debit,250.0,Thursday
+TXN000734,2025-02-13,2025-02,Transportation,Indian Oil Petrol Pump,UPI,Debit,565.3,Thursday
+TXN000735,2025-02-13,2025-02,Groceries,BigBasket,UPI,Debit,1271.28,Thursday
+TXN000736,2025-02-15,2025-02,Subscriptions,Jio Mobile Recharge,Debit Card,Debit,349.0,Saturday
+TXN000737,2025-02-16,2025-02,Shopping,Decathlon,Credit Card,Debit,2955.88,Sunday
+TXN000738,2025-02-16,2025-02,Utilities,Airtel Broadband,Credit Card,Debit,799.0,Sunday
+TXN000739,2025-02-17,2025-02,Groceries,DMart,Debit Card,Debit,1254.7,Monday
+TXN000740,2025-02-17,2025-02,Transportation,Rapido,UPI,Debit,150.1,Monday
+TXN000741,2025-02-17,2025-02,Entertainment,Steam Games,Cash,Debit,1700.06,Monday
+TXN000742,2025-02-18,2025-02,Utilities,Indraprastha Gas (PNG),Credit Card,Debit,720.0,Tuesday
+TXN000743,2025-02-18,2025-02,Entertainment,Bowling Alley,UPI,Debit,1489.12,Tuesday
+TXN000744,2025-02-18,2025-02,Transportation,Uber,Debit Card,Debit,625.3,Tuesday
+TXN000745,2025-02-19,2025-02,Transportation,Rapido,Debit Card,Debit,89.39,Wednesday
+TXN000746,2025-02-20,2025-02,Food & Dining,Office Canteen,UPI,Debit,125.68,Thursday
+TXN000747,2025-02-20,2025-02,Subscriptions,Amazon Prime,Credit Card,Debit,299.0,Thursday
+TXN000748,2025-02-20,2025-02,Food & Dining,Domino's,Credit Card,Debit,864.14,Thursday
+TXN000749,2025-02-21,2025-02,Transportation,Ola,UPI,Debit,429.82,Friday
+TXN000750,2025-02-21,2025-02,Shopping,Croma,Debit Card,Debit,4039.1,Friday
+TXN000751,2025-02-21,2025-02,Food & Dining,Swiggy,Unknown,Debit,315.91,Friday
+TXN000752,2025-02-22,2025-02,Shopping,Flipkart,UPI,Debit,2375.96,Saturday
+TXN000753,2025-02-22,2025-02,Transportation,Indian Oil Petrol Pump,UPI,Debit,780.97,Saturday
+TXN000754,2025-02-23,2025-02,Transportation,Rapido,Credit Card,Debit,120.51,Sunday
+TXN000755,2025-02-24,2025-02,Transportation,Uber,UPI,Debit,528.9,Monday
+TXN000756,2025-02-25,2025-02,Healthcare,Dental Clinic,UPI,Debit,1133.28,Tuesday
+TXN000757,2025-02-25,2025-02,Groceries,BigBasket,UPI,Debit,998.63,Tuesday
+TXN000758,2025-02-25,2025-02,Food & Dining,Domino's,UPI,Debit,553.95,Tuesday
+TXN000759,2025-02-26,2025-02,Food & Dining,Office Canteen,Credit Card,Debit,150.99,Wednesday
+TXN000760,2025-02-27,2025-02,Groceries,Blinkit,Credit Card,Debit,848.12,Thursday
+TXN000761,2025-02-28,2025-02,Healthcare,1mg,UPI,Debit,486.11,Friday
+TXN000762,2025-02-28,2025-02,Transportation,Rapido,UPI,Debit,42.85,Friday
+TXN000763,2025-03-01,2025-03,Salary,TechNova Pvt Ltd,Net Banking,Credit,68000.0,Saturday
+TXN000764,2025-03-03,2025-03,Groceries,Zepto,Credit Card,Debit,323.37,Monday
+TXN000765,2025-03-03,2025-03,Rent,House Rent - Landlord,UPI,Debit,15750.0,Monday
+TXN000766,2025-03-03,2025-03,Transportation,Indian Oil Petrol Pump,UPI,Debit,552.2,Monday
+TXN000767,2025-03-05,2025-03,Transportation,Indian Oil Petrol Pump,Debit Card,Debit,800.27,Wednesday
+TXN000768,2025-03-06,2025-03,Transportation,Uber,Credit Card,Debit,133.73,Thursday
+TXN000769,2025-03-07,2025-03,Transportation,Delhi Metro Recharge,Credit Card,Debit,411.21,Friday
+TXN000770,2025-03-07,2025-03,Entertainment,BookMyShow,Credit Card,Debit,567.0,Friday
+TXN000771,2025-03-07,2025-03,Utilities,Delhi Jal Board,Net Banking,Debit,250.0,Friday
+TXN000772,2025-03-07,2025-03,Subscriptions,Netflix,UPI,Debit,649.0,Friday
+TXN000773,2025-03-08,2025-03,Transportation,Delhi Metro Recharge,UPI,Debit,394.87,Saturday
+TXN000774,2025-03-10,2025-03,Utilities,Indraprastha Gas (PNG),UPI,Debit,450.0,Monday
+TXN000775,2025-03-10,2025-03,Insurance,LIC Policy Premium,Net Banking,Debit,2200.0,Monday
+TXN000776,2025-03-10,2025-03,Shopping,Amazon,UPI,Debit,1784.99,Monday
+TXN000777,2025-03-11,2025-03,Utilities,Airtel Broadband,Net Banking,Debit,799.0,Tuesday
+TXN000778,2025-03-11,2025-03,Groceries,DMart,Credit Card,Debit,1909.14,Tuesday
+TXN000779,2025-03-12,2025-03,Transportation,Ola,UPI,Debit,450.33,Wednesday
+TXN000780,2025-03-12,2025-03,Subscriptions,Spotify,Debit Card,Debit,119.0,Wednesday
+TXN000781,2025-03-12,2025-03,Utilities,BSES Electricity,Net Banking,Debit,1104.01,Wednesday
+TXN000782,2025-03-12,2025-03,Transportation,Indian Oil Petrol Pump,UPI,Debit,1923.24,Wednesday
+TXN000783,2025-03-12,2025-03,Groceries,Local Kirana Store,UPI,Debit,515.24,Wednesday
+TXN000784,2025-03-13,2025-03,Transportation,Ola,UPI,Debit,338.26,Thursday
+TXN000785,2025-03-14,2025-03,Food & Dining,Haldiram's,UPI,Debit,834.11,Friday
+TXN000786,2025-03-15,2025-03,Groceries,Local Kirana Store,UPI,Debit,199.99,Saturday
+TXN000787,2025-03-15,2025-03,Subscriptions,Jio Mobile Recharge,Debit Card,Debit,349.0,Saturday
+TXN000788,2025-03-16,2025-03,Healthcare,1mg,UPI,Debit,436.74,Sunday
+TXN000789,2025-03-17,2025-03,Entertainment,BookMyShow,Credit Card,Debit,2046.13,Monday
+TXN000790,2025-03-18,2025-03,Education,Coursera,UPI,Debit,3201.11,Tuesday
+TXN000791,2025-03-19,2025-03,Education,Udemy,UPI,Debit,1550.1,Wednesday
+TXN000792,2025-03-19,2025-03,Transportation,Indian Oil Petrol Pump,Unknown,Debit,1644.63,Wednesday
+TXN000793,2025-03-19,2025-03,Transportation,Delhi Metro Recharge,UPI,Debit,314.86,Wednesday
+TXN000794,2025-03-20,2025-03,Groceries,Local Kirana Store,Cash,Debit,147.36,Thursday
+TXN000795,2025-03-20,2025-03,Transportation,Uber,Credit Card,Debit,195.67,Thursday
+TXN000796,2025-03-20,2025-03,Subscriptions,Amazon Prime,Credit Card,Debit,299.0,Thursday
+TXN000797,2025-03-20,2025-03,Groceries,Blinkit,Debit Card,Debit,379.87,Thursday
+TXN000798,2025-03-21,2025-03,Food & Dining,Swiggy,UPI,Debit,222.77,Friday
+TXN000799,2025-03-22,2025-03,Transportation,Uber,Credit Card,Debit,440.7,Saturday
+TXN000800,2025-03-22,2025-03,Groceries,BigBasket,Credit Card,Debit,568.14,Saturday
+TXN000801,2025-03-23,2025-03,Shopping,Myntra,Credit Card,Debit,2202.72,Sunday
+TXN000802,2025-03-23,2025-03,Shopping,Myntra,Credit Card,Debit,1835.68,Sunday
+TXN000803,2025-03-24,2025-03,Food & Dining,Haldiram's,UPI,Debit,674.77,Monday
+TXN000804,2025-03-25,2025-03,Transportation,Rapido,Debit Card,Debit,56.49,Tuesday
+TXN000805,2025-03-25,2025-03,Insurance,Star Health Insurance,Net Banking,Debit,18500.0,Tuesday
+TXN000806,2025-03-26,2025-03,Shopping,Decathlon,Debit Card,Debit,2993.7,Wednesday
+TXN000807,2025-03-26,2025-03,Food & Dining,Haldiram's,Unknown,Debit,857.5,Wednesday
+TXN000808,2025-03-26,2025-03,Food & Dining,Starbucks,UPI,Debit,445.32,Wednesday
+TXN000809,2025-03-28,2025-03,Interest,Bank Interest,Net Banking,Credit,949.56,Friday
+TXN000810,2025-03-29,2025-03,Shopping,Amazon,Debit Card,Debit,1520.52,Saturday
+TXN000811,2025-03-29,2025-03,Refund,Amazon,UPI,Credit,489.67,Saturday
+TXN000812,2025-03-30,2025-03,Transportation,Indian Oil Petrol Pump,Credit Card,Debit,1276.62,Sunday
+TXN000813,2025-03-30,2025-03,Transportation,Rapido,Credit Card,Debit,79.98,Sunday
+TXN000814,2025-03-31,2025-03,Food & Dining,Office Canteen,UPI,Debit,155.12,Monday
+TXN000815,2025-04-01,2025-04,Salary,TechNova Pvt Ltd,Net Banking,Credit,76160.0,Tuesday
+TXN000816,2025-04-03,2025-04,Rent,House Rent - Landlord,Net Banking,Debit,15750.0,Thursday
+TXN000817,2025-04-03,2025-04,Transportation,Indian Oil Petrol Pump,UPI,Debit,946.15,Thursday
+TXN000818,2025-04-04,2025-04,Shopping,Myntra,Credit Card,Debit,1529.96,Friday
+TXN000819,2025-04-04,2025-04,Entertainment,Steam Games,Credit Card,Debit,662.61,Friday
+TXN000820,2025-04-05,2025-04,Shopping,Myntra,UPI,Debit,2450.75,Saturday
+TXN000821,2025-04-05,2025-04,Entertainment,Steam Games,Credit Card,Debit,974.39,Saturday
+TXN000822,2025-04-06,2025-04,Healthcare,Max Hospital,UPI,Debit,1597.3,Sunday
+TXN000823,2025-04-06,2025-04,Food & Dining,Zomato,Credit Card,Debit,368.56,Sunday
+TXN000824,2025-04-06,2025-04,Groceries,Zepto,Cash,Debit,565.87,Sunday
+TXN000825,2025-04-07,2025-04,Subscriptions,Netflix,Credit Card,Debit,649.0,Monday
+TXN000826,2025-04-07,2025-04,Transportation,Rapido,UPI,Debit,77.05,Monday
+TXN000827,2025-04-08,2025-04,Food & Dining,Haldiram's,Debit Card,Debit,1138.0,Tuesday
+TXN000828,2025-04-09,2025-04,Food & Dining,Haldiram's,UPI,Debit,1053.64,Wednesday
+TXN000829,2025-04-10,2025-04,Insurance,LIC Policy Premium,Net Banking,Debit,2200.0,Thursday
+TXN000830,2025-04-10,2025-04,Food & Dining,Haldiram's,UPI,Debit,368.91,Thursday
+TXN000831,2025-04-10,2025-04,Transportation,Rapido,Unknown,Debit,80.55,Thursday
+TXN000832,2025-04-11,2025-04,Food & Dining,Office Canteen,Debit Card,Debit,186.28,Friday
+TXN000833,2025-04-11,2025-04,Groceries,BigBasket,UPI,Debit,663.19,Friday
+TXN000834,2025-04-11,2025-04,Utilities,Airtel Broadband,Credit Card,Debit,799.0,Friday
+TXN000835,2025-04-11,2025-04,Transportation,Indian Oil Petrol Pump,UPI,Debit,1196.66,Friday
+TXN000836,2025-04-12,2025-04,Subscriptions,Spotify,UPI,Debit,119.0,Saturday
+TXN000837,2025-04-13,2025-04,Entertainment,PVR Cinemas,Credit Card,Debit,393.01,Sunday
+TXN000838,2025-04-14,2025-04,Utilities,Delhi Jal Board,Credit Card,Debit,250.0,Monday
+TXN000839,2025-04-14,2025-04,Transportation,Uber,UPI,Debit,203.78,Monday
+TXN000840,2025-04-15,2025-04,Subscriptions,Jio Mobile Recharge,Credit Card,Debit,349.0,Tuesday
+TXN000841,2025-04-15,2025-04,Education,Coursera,UPI,Debit,3993.95,Tuesday
+TXN000842,2025-04-17,2025-04,Food & Dining,Domino's,UPI,Debit,620.09,Thursday
+TXN000843,2025-04-17,2025-04,Food & Dining,Haldiram's,UPI,Debit,1150.11,Thursday
+TXN000844,2025-04-17,2025-04,Groceries,BigBasket,Debit Card,Debit,2145.92,Thursday
+TXN000845,2025-04-17,2025-04,Utilities,BSES Electricity,Net Banking,Debit,2904.67,Thursday
+TXN000846,2025-04-18,2025-04,Utilities,Indraprastha Gas (PNG),UPI,Debit,450.0,Friday
+TXN000847,2025-04-18,2025-04,Food & Dining,Zomato,Cash,Debit,573.74,Friday
+TXN000848,2025-04-19,2025-04,Food & Dining,Office Canteen,UPI,Debit,83.61,Saturday
+TXN000849,2025-04-20,2025-04,Food & Dining,Zomato,Credit Card,Debit,286.14,Sunday
+TXN000850,2025-04-20,2025-04,Subscriptions,Amazon Prime,Debit Card,Debit,299.0,Sunday
+TXN000851,2025-04-21,2025-04,Transportation,Uber,Debit Card,Debit,163.05,Monday
+TXN000852,2025-04-21,2025-04,Transportation,Rapido,Cash,Debit,98.32,Monday
+TXN000853,2025-04-21,2025-04,Transportation,Uber,UPI,Debit,383.96,Monday
+TXN000854,2025-04-22,2025-04,Groceries,BigBasket,UPI,Debit,1344.95,Tuesday
+TXN000855,2025-04-23,2025-04,Freelance,Upwork Client,UPI,Credit,14300.0,Wednesday
+TXN000856,2025-04-26,2025-04,Transportation,Indian Oil Petrol Pump,Cash,Debit,867.32,Saturday
+TXN000857,2025-04-28,2025-04,Shopping,Myntra,Credit Card,Debit,1968.4,Monday
+TXN000858,2025-04-28,2025-04,Shopping,Croma,Credit Card,Debit,2577.52,Monday
+TXN000859,2025-04-28,2025-04,Healthcare,Dental Clinic,UPI,Debit,1120.68,Monday
+TXN000860,2025-04-28,2025-04,Transportation,Rapido,Debit Card,Debit,45.77,Monday
+TXN000861,2025-04-29,2025-04,Groceries,Zepto,Credit Card,Debit,373.93,Tuesday
+TXN000862,2025-04-30,2025-04,Healthcare,1mg,Cash,Debit,1013.48,Wednesday
+TXN000863,2025-04-30,2025-04,Groceries,DMart,Cash,Debit,1638.28,Wednesday
+TXN000864,2025-05-01,2025-05,Freelance,Upwork Client,UPI,Credit,6200.0,Thursday
+TXN000865,2025-05-01,2025-05,Salary,TechNova Pvt Ltd,Net Banking,Credit,76160.0,Thursday
+TXN000866,2025-05-02,2025-05,Transportation,Indian Oil Petrol Pump,UPI,Debit,1250.12,Friday
+TXN000867,2025-05-02,2025-05,Food & Dining,Haldiram's,UPI,Debit,292.98,Friday
+TXN000868,2025-05-03,2025-05,Rent,House Rent - Landlord,Net Banking,Debit,15750.0,Saturday
+TXN000869,2025-05-04,2025-05,Food & Dining,Domino's,Credit Card,Debit,304.91,Sunday
+TXN000870,2025-05-05,2025-05,Transportation,Rapido,UPI,Debit,165.04,Monday
+TXN000871,2025-05-05,2025-05,Food & Dining,Office Canteen,UPI,Debit,145.55,Monday
+TXN000872,2025-05-05,2025-05,Transportation,Indian Oil Petrol Pump,UPI,Debit,1279.0,Monday
+TXN000873,2025-05-06,2025-05,Entertainment,PVR Cinemas,Credit Card,Debit,845.99,Tuesday
+TXN000874,2025-05-07,2025-05,Subscriptions,Netflix,Credit Card,Debit,649.0,Wednesday
+TXN000875,2025-05-08,2025-05,Utilities,Indraprastha Gas (PNG),UPI,Debit,450.0,Thursday
+TXN000876,2025-05-08,2025-05,Utilities,Airtel Broadband,Unknown,Debit,799.0,Thursday
+TXN000877,2025-05-09,2025-05,Food & Dining,Starbucks,UPI,Debit,353.57,Friday
+TXN000878,2025-05-09,2025-05,Shopping,Amazon,Debit Card,Debit,1911.66,Friday
+TXN000879,2025-05-10,2025-05,Groceries,Blinkit,UPI,Debit,186.49,Saturday
+TXN000880,2025-05-10,2025-05,Food & Dining,Office Canteen,Credit Card,Debit,154.15,Saturday
+TXN000881,2025-05-10,2025-05,Insurance,LIC Policy Premium,Net Banking,Debit,2200.0,Saturday
+TXN000882,2025-05-11,2025-05,Refund,Amazon,UPI,Credit,2495.87,Sunday
+TXN000883,2025-05-11,2025-05,Transportation,Delhi Metro Recharge,UPI,Debit,479.41,Sunday
+TXN000884,2025-05-11,2025-05,Transportation,Uber,UPI,Debit,192.63,Sunday
+TXN000885,2025-05-12,2025-05,Food & Dining,Domino's,UPI,Debit,637.09,Monday
+TXN000886,2025-05-12,2025-05,Utilities,BSES Electricity,UPI,Debit,2777.51,Monday
+TXN000887,2025-05-12,2025-05,Transportation,Delhi Metro Recharge,UPI,Debit,367.35,Monday
+TXN000888,2025-05-12,2025-05,Subscriptions,Spotify,Credit Card,Debit,119.0,Monday
+TXN000889,2025-05-13,2025-05,Food & Dining,Office Canteen,UPI,Debit,111.21,Tuesday
+TXN000890,2025-05-13,2025-05,Food & Dining,Domino's,Cash,Debit,473.16,Tuesday
+TXN000891,2025-05-14,2025-05,Entertainment,Steam Games,Credit Card,Debit,928.17,Wednesday
+TXN000892,2025-05-14,2025-05,Utilities,Delhi Jal Board,UPI,Debit,250.0,Wednesday
+TXN000893,2025-05-15,2025-05,Entertainment,PVR Cinemas,UPI,Debit,512.17,Thursday
+TXN000894,2025-05-15,2025-05,Subscriptions,Jio Mobile Recharge,Credit Card,Debit,349.0,Thursday
+TXN000895,2025-05-17,2025-05,Travel,IRCTC,Credit Card,Debit,2646.75,Saturday
+TXN000896,2025-05-17,2025-05,Transportation,Delhi Metro Recharge,UPI,Debit,378.12,Saturday
+TXN000897,2025-05-17,2025-05,Transportation,Ola,UPI,Debit,189.58,Saturday
+TXN000898,2025-05-18,2025-05,Food & Dining,Domino's,UPI,Debit,570.21,Sunday
+TXN000899,2025-05-19,2025-05,Transportation,Uber,UPI,Debit,639.35,Monday
+TXN000900,2025-05-20,2025-05,Subscriptions,Amazon Prime,Credit Card,Debit,299.0,Tuesday
+TXN000901,2025-05-20,2025-05,Food & Dining,Haldiram's,UPI,Debit,1034.05,Tuesday
+TXN000902,2025-05-20,2025-05,Transportation,Ola,UPI,Debit,276.83,Tuesday
+TXN000903,2025-05-22,2025-05,Entertainment,Bowling Alley,UPI,Debit,647.78,Thursday
+TXN000904,2025-05-22,2025-05,Transportation,Uber,UPI,Debit,315.23,Thursday
+TXN000905,2025-05-23,2025-05,Transportation,Rapido,Debit Card,Debit,114.53,Friday
+TXN000906,2025-05-24,2025-05,Transportation,Delhi Metro Recharge,UPI,Debit,439.03,Saturday
+TXN000907,2025-05-24,2025-05,Shopping,Croma,Credit Card,Debit,5832.26,Saturday
+TXN000908,2025-05-25,2025-05,Healthcare,1mg,UPI,Debit,610.38,Sunday
+TXN000909,2025-05-26,2025-05,Transportation,Uber,UPI,Debit,328.77,Monday
+TXN000910,2025-05-27,2025-05,Transportation,Rapido,Credit Card,Debit,81.97,Tuesday
+TXN000911,2025-05-27,2025-05,Groceries,Local Kirana Store,UPI,Debit,458.51,Tuesday
+TXN000912,2025-05-28,2025-05,Education,Amazon Books,UPI,Debit,1404.63,Wednesday
+TXN000913,2025-05-31,2025-05,Entertainment,BookMyShow,Unknown,Debit,369.46,Saturday
+TXN000914,2025-06-01,2025-06,Salary,TechNova Pvt Ltd,Net Banking,Credit,76160.0,Sunday
+TXN000915,2025-06-01,2025-06,Entertainment,Steam Games,Cash,Debit,1615.11,Sunday
+TXN000916,2025-06-03,2025-06,Rent,House Rent - Landlord,Net Banking,Debit,15750.0,Tuesday
+TXN000917,2025-06-03,2025-06,Transportation,Uber,Credit Card,Debit,601.21,Tuesday
+TXN000918,2025-06-04,2025-06,Food & Dining,Office Canteen,UPI,Debit,98.03,Wednesday
+TXN000919,2025-06-04,2025-06,Food & Dining,Office Canteen,Debit Card,Debit,98.28,Wednesday
+TXN000920,2025-06-04,2025-06,Entertainment,Steam Games,UPI,Debit,1151.94,Wednesday
+TXN000921,2025-06-05,2025-06,Travel,OYO Rooms,Credit Card,Debit,4579.19,Thursday
+TXN000922,2025-06-06,2025-06,Transportation,Indian Oil Petrol Pump,UPI,Debit,1823.37,Friday
+TXN000923,2025-06-06,2025-06,Transportation,Uber,UPI,Debit,604.01,Friday
+TXN000924,2025-06-07,2025-06,Subscriptions,Netflix,Credit Card,Debit,649.0,Saturday
+TXN000925,2025-06-07,2025-06,Transportation,Indian Oil Petrol Pump,UPI,Debit,1216.17,Saturday
+TXN000926,2025-06-07,2025-06,Groceries,Blinkit,UPI,Debit,607.56,Saturday
+TXN000927,2025-06-08,2025-06,Food & Dining,Domino's,Debit Card,Debit,435.4,Sunday
+TXN000928,2025-06-08,2025-06,Food & Dining,Domino's,UPI,Debit,744.53,Sunday
+TXN000929,2025-06-10,2025-06,Food & Dining,Zomato,Cash,Debit,360.08,Tuesday
+TXN000930,2025-06-10,2025-06,Insurance,LIC Policy Premium,Debit Card,Debit,2200.0,Tuesday
+TXN000931,2025-06-10,2025-06,Utilities,Indraprastha Gas (PNG),UPI,Debit,450.0,Tuesday
+TXN000932,2025-06-10,2025-06,Groceries,DMart,Debit Card,Debit,2859.57,Tuesday
+TXN000933,2025-06-10,2025-06,Groceries,DMart,Credit Card,Debit,1269.62,Tuesday
+TXN000934,2025-06-11,2025-06,Food & Dining,Swiggy,UPI,Debit,237.11,Wednesday
+TXN000935,2025-06-12,2025-06,Groceries,Local Kirana Store,UPI,Debit,290.22,Thursday
+TXN000936,2025-06-12,2025-06,Utilities,BSES Electricity,Net Banking,Debit,3318.42,Thursday
+TXN000937,2025-06-12,2025-06,Subscriptions,Spotify,Debit Card,Debit,119.0,Thursday
+TXN000938,2025-06-13,2025-06,Utilities,Airtel Broadband,UPI,Debit,799.0,Friday
+TXN000939,2025-06-13,2025-06,Utilities,Delhi Jal Board,Net Banking,Debit,250.0,Friday
+TXN000941,2025-06-13,2025-06,Shopping,Amazon,Debit Card,Debit,2992.36,Friday
+TXN000942,2025-06-15,2025-06,Subscriptions,Jio Mobile Recharge,Unknown,Debit,349.0,Sunday
+TXN000943,2025-06-18,2025-06,Transportation,Ola,UPI,Debit,102.33,Wednesday
+TXN000944,2025-06-18,2025-06,Food & Dining,Domino's,Cash,Debit,462.68,Wednesday
+TXN000945,2025-06-20,2025-06,Subscriptions,Amazon Prime,Credit Card,Debit,299.0,Friday
+TXN000946,2025-06-21,2025-06,Transportation,Delhi Metro Recharge,UPI,Debit,296.35,Saturday
+TXN000947,2025-06-21,2025-06,Entertainment,Steam Games,UPI,Debit,726.84,Saturday
+TXN000948,2025-06-23,2025-06,Groceries,Blinkit,Debit Card,Debit,678.68,Monday
+TXN000949,2025-06-24,2025-06,Transportation,Rapido,UPI,Debit,72.51,Tuesday
+TXN000950,2025-06-24,2025-06,Shopping,Decathlon,Credit Card,Debit,1128.52,Tuesday
+TXN000951,2025-06-24,2025-06,Food & Dining,Starbucks,UPI,Debit,562.39,Tuesday
+TXN000952,2025-06-25,2025-06,Transportation,Indian Oil Petrol Pump,Cash,Debit,650.82,Wednesday
+TXN000953,2025-06-25,2025-06,Food & Dining,Starbucks,Credit Card,Debit,627.35,Wednesday
+TXN000954,2025-06-26,2025-06,Groceries,Zepto,UPI,Debit,756.91,Thursday
+TXN000955,2025-06-27,2025-06,Food & Dining,Starbucks,UPI,Debit,385.59,Friday
+TXN000956,2025-06-28,2025-06,Groceries,Blinkit,UPI,Debit,656.9,Saturday
+TXN000957,2025-06-28,2025-06,Interest,Bank Interest,Net Banking,Credit,901.46,Saturday
+TXN000958,2025-06-29,2025-06,Food & Dining,Zomato,UPI,Debit,211.47,Sunday
+TXN000959,2025-06-30,2025-06,Food & Dining,Office Canteen,UPI,Debit,71.06,Monday
+TXN000960,2025-06-30,2025-06,Transportation,Ola,Credit Card,Debit,283.11,Monday
+TXN000961,2025-07-01,2025-07,Salary,TechNova Pvt Ltd,Net Banking,Credit,76160.0,Tuesday
+TXN000962,2025-07-02,2025-07,Transportation,Delhi Metro Recharge,UPI,Debit,407.83,Wednesday
+TXN000963,2025-07-02,2025-07,Shopping,Decathlon,Debit Card,Debit,1750.64,Wednesday
+TXN000964,2025-07-02,2025-07,Entertainment,BookMyShow,Debit Card,Debit,1572.28,Wednesday
+TXN000965,2025-07-03,2025-07,Transportation,Rapido,Cash,Debit,162.24,Thursday
+TXN000966,2025-07-03,2025-07,Entertainment,Bowling Alley,Cash,Debit,844.53,Thursday
+TXN000967,2025-07-03,2025-07,Entertainment,PVR Cinemas,UPI,Debit,1144.4,Thursday
+TXN000968,2025-07-03,2025-07,Rent,House Rent - Landlord,Net Banking,Debit,15750.0,Thursday
+TXN000969,2025-07-05,2025-07,Groceries,BigBasket,UPI,Debit,788.04,Saturday
+TXN000970,2025-07-06,2025-07,Utilities,BSES Electricity,UPI,Debit,2585.1,Sunday
+TXN000971,2025-07-06,2025-07,Transportation,Uber,UPI,Debit,366.66,Sunday
+TXN000972,2025-07-07,2025-07,Utilities,Indraprastha Gas (PNG),Net Banking,Debit,450.0,Monday
+TXN000973,2025-07-07,2025-07,Subscriptions,Netflix,Credit Card,Debit,649.0,Monday
+TXN000974,2025-07-08,2025-07,Transportation,Delhi Metro Recharge,UPI,Debit,310.26,Tuesday
+TXN000975,2025-07-08,2025-07,Groceries,Local Kirana Store,UPI,Debit,294.16,Tuesday
+TXN000976,2025-07-08,2025-07,Food & Dining,Swiggy,Cash,Debit,328.65,Tuesday
+TXN000977,2025-07-10,2025-07,Utilities,Airtel Broadband,UPI,Debit,799.0,Thursday
+TXN000978,2025-07-10,2025-07,Insurance,LIC Policy Premium,Net Banking,Debit,2200.0,Thursday
+TXN000979,2025-07-11,2025-07,Groceries,DMart,Cash,Debit,633.8,Friday
+TXN000980,2025-07-12,2025-07,Travel,MakeMyTrip,UPI,Debit,8881.81,Saturday
+TXN000981,2025-07-12,2025-07,Subscriptions,Spotify,Credit Card,Debit,119.0,Saturday
+TXN000982,2025-07-13,2025-07,Shopping,Myntra,UPI,Debit,1946.56,Sunday
+TXN000983,2025-07-14,2025-07,Healthcare,Dental Clinic,UPI,Debit,579.34,Monday
+TXN000984,2025-07-15,2025-07,Subscriptions,Jio Mobile Recharge,UPI,Debit,349.0,Tuesday
+TXN000985,2025-07-15,2025-07,Transportation,Uber,Cash,Debit,596.41,Tuesday
+TXN000986,2025-07-16,2025-07,Transportation,Ola,Credit Card,Debit,422.61,Wednesday
+TXN000987,2025-07-16,2025-07,Transportation,Ola,UPI,Debit,530.81,Wednesday
+TXN000988,2025-07-16,2025-07,Utilities,Delhi Jal Board,Net Banking,Debit,250.0,Wednesday
+TXN000989,2025-07-17,2025-07,Transportation,Uber,Debit Card,Debit,360.32,Thursday
+TXN000990,2025-07-17,2025-07,Groceries,Local Kirana Store,UPI,Debit,596.19,Thursday
+TXN000991,2025-07-18,2025-07,Refund,Amazon,UPI,Credit,1164.73,Friday
+TXN000992,2025-07-18,2025-07,Transportation,Rapido,Credit Card,Debit,68.3,Friday
+TXN000993,2025-07-18,2025-07,Transportation,Uber,UPI,Debit,152.73,Friday
+TXN000994,2025-07-18,2025-07,Transportation,Delhi Metro Recharge,Debit Card,Debit,324.75,Friday
+TXN000995,2025-07-19,2025-07,Transportation,Delhi Metro Recharge,Debit Card,Debit,223.43,Saturday
+TXN000996,2025-07-20,2025-07,Subscriptions,Amazon Prime,UPI,Debit,299.0,Sunday
+TXN000997,2025-07-20,2025-07,Transportation,Ola,UPI,Debit,304.74,Sunday
+TXN000998,2025-07-21,2025-07,Transportation,Delhi Metro Recharge,Debit Card,Debit,407.09,Monday
+TXN000999,2025-07-21,2025-07,Transportation,Rapido,Credit Card,Debit,41.6,Monday
+TXN001000,2025-07-22,2025-07,Groceries,Blinkit,Cash,Debit,215.05,Tuesday
+TXN001001,2025-07-22,2025-07,Education,Coursera,Debit Card,Debit,3063.47,Tuesday
+TXN001002,2025-07-22,2025-07,Transportation,Rapido,Debit Card,Debit,101.86,Tuesday
+TXN001003,2025-07-22,2025-07,Transportation,Ola,Debit Card,Debit,442.84,Tuesday
+TXN001004,2025-07-23,2025-07,Transportation,Rapido,UPI,Debit,102.54,Wednesday
+TXN001005,2025-07-23,2025-07,Groceries,Local Kirana Store,UPI,Debit,488.97,Wednesday
+TXN001006,2025-07-24,2025-07,Shopping,Myntra,Credit Card,Debit,2132.91,Thursday
+TXN001007,2025-07-24,2025-07,Food & Dining,Haldiram's,UPI,Debit,536.85,Thursday
+TXN001008,2025-07-25,2025-07,Healthcare,1mg,Debit Card,Debit,968.97,Friday
+TXN001009,2025-07-25,2025-07,Groceries,Blinkit,UPI,Debit,575.84,Friday
+TXN001010,2025-07-26,2025-07,Shopping,Croma,UPI,Debit,4967.84,Saturday
+TXN001011,2025-07-26,2025-07,Transportation,Indian Oil Petrol Pump,UPI,Debit,1636.03,Saturday
+TXN001012,2025-07-28,2025-07,Groceries,DMart,UPI,Debit,1021.19,Monday
+TXN001013,2025-07-28,2025-07,Transportation,Ola,UPI,Debit,174.04,Monday
+TXN001014,2025-07-29,2025-07,Healthcare,Dental Clinic,Credit Card,Debit,1436.15,Tuesday
+TXN001015,2025-07-30,2025-07,Healthcare,Dental Clinic,UPI,Debit,1621.34,Wednesday
+TXN001016,2025-07-30,2025-07,Transportation,Indian Oil Petrol Pump,UPI,Debit,1529.11,Wednesday
+TXN001017,2025-07-31,2025-07,Food & Dining,Starbucks,Cash,Debit,601.5,Thursday
+TXN001018,2025-08-01,2025-08,Salary,TechNova Pvt Ltd,Net Banking,Credit,76160.0,Friday
+TXN001020,2025-08-03,2025-08,Groceries,BigBasket,UPI,Debit,905.4,Sunday
+TXN001021,2025-08-03,2025-08,Rent,House Rent - Landlord,Net Banking,Debit,15750.0,Sunday
+TXN001022,2025-08-05,2025-08,Transportation,Delhi Metro Recharge,UPI,Debit,457.26,Tuesday
+TXN001023,2025-08-07,2025-08,Entertainment,PVR Cinemas,UPI,Debit,530.04,Thursday
+TXN001024,2025-08-07,2025-08,Subscriptions,Netflix,UPI,Debit,649.0,Thursday
+TXN001025,2025-08-08,2025-08,Transportation,Indian Oil Petrol Pump,UPI,Debit,861.45,Friday
+TXN001026,2025-08-08,2025-08,Food & Dining,Office Canteen,UPI,Debit,174.57,Friday
+TXN001027,2025-08-08,2025-08,Freelance,Upwork Client,UPI,Credit,15900.0,Friday
+TXN001028,2025-08-08,2025-08,Transportation,Rapido,UPI,Debit,58.77,Friday
+TXN001029,2025-08-08,2025-08,Healthcare,1mg,UPI,Debit,596.63,Friday
+TXN001030,2025-08-09,2025-08,Utilities,BSES Electricity,UPI,Debit,3125.93,Saturday
+TXN001031,2025-08-10,2025-08,Transportation,Indian Oil Petrol Pump,UPI,Debit,1112.39,Sunday
+TXN001032,2025-08-10,2025-08,Insurance,LIC Policy Premium,Net Banking,Debit,2200.0,Sunday
+TXN001033,2025-08-10,2025-08,Food & Dining,Domino's,UPI,Debit,432.63,Sunday
+TXN001034,2025-08-10,2025-08,Food & Dining,Swiggy,Debit Card,Debit,259.88,Sunday
+TXN001035,2025-08-11,2025-08,Transportation,Indian Oil Petrol Pump,UPI,Debit,1678.71,Monday
+TXN001036,2025-08-12,2025-08,Transportation,Rapido,UPI,Debit,109.39,Tuesday
+TXN001037,2025-08-12,2025-08,Subscriptions,Spotify,Credit Card,Debit,119.0,Tuesday
+TXN001038,2025-08-12,2025-08,Utilities,Airtel Broadband,UPI,Debit,799.0,Tuesday
+TXN001039,2025-08-12,2025-08,Groceries,DMart,UPI,Debit,1194.03,Tuesday
+TXN001040,2025-08-12,2025-08,Healthcare,Dental Clinic,UPI,Debit,1834.13,Tuesday
+TXN001041,2025-08-13,2025-08,Healthcare,Max Hospital,UPI,Debit,4057.16,Wednesday
+TXN001042,2025-08-13,2025-08,Groceries,Zepto,UPI,Debit,425.68,Wednesday
+TXN001043,2025-08-13,2025-08,Transportation,Ola,UPI,Debit,123.19,Wednesday
+TXN001044,2025-08-14,2025-08,Transportation,Ola,Cash,Debit,381.7,Thursday
+TXN001045,2025-08-15,2025-08,Food & Dining,Swiggy,UPI,Debit,518.55,Friday
+TXN001046,2025-08-15,2025-08,Utilities,Indraprastha Gas (PNG),Net Banking,Debit,450.0,Friday
+TXN001047,2025-08-15,2025-08,Subscriptions,Jio Mobile Recharge,Credit Card,Debit,349.0,Friday
+TXN001048,2025-08-16,2025-08,Utilities,Delhi Jal Board,UPI,Debit,250.0,Saturday
+TXN001049,2025-08-17,2025-08,Travel,IndiGo Airlines,Credit Card,Debit,4938.59,Sunday
+TXN001050,2025-08-18,2025-08,Transportation,Indian Oil Petrol Pump,UPI,Debit,1951.68,Monday
+TXN001051,2025-08-18,2025-08,Shopping,Croma,UPI,Debit,6932.29,Monday
+TXN001052,2025-08-18,2025-08,Food & Dining,Starbucks,Debit Card,Debit,475.59,Monday
+TXN001053,2025-08-18,2025-08,Transportation,Indian Oil Petrol Pump,Credit Card,Debit,1872.11,Monday
+TXN001054,2025-08-18,2025-08,Transportation,Indian Oil Petrol Pump,UPI,Debit,775.82,Monday
+TXN001055,2025-08-20,2025-08,Subscriptions,Amazon Prime,Credit Card,Debit,299.0,Wednesday
+TXN001056,2025-08-20,2025-08,Food & Dining,Domino's,UPI,Debit,491.34,Wednesday
+TXN001057,2025-08-21,2025-08,Transportation,Delhi Metro Recharge,UPI,Debit,261.0,Thursday
+TXN001058,2025-08-22,2025-08,Food & Dining,Haldiram's,Unknown,Debit,1082.45,Friday
+TXN001059,2025-08-22,2025-08,Groceries,BigBasket,Credit Card,Debit,467.66,Friday
+TXN001060,2025-08-23,2025-08,Healthcare,Dental Clinic,Credit Card,Debit,2786.1,Saturday
+TXN001061,2025-08-24,2025-08,Food & Dining,Zomato,Cash,Debit,685.79,Sunday
+TXN001062,2025-08-24,2025-08,Transportation,Delhi Metro Recharge,Unknown,Debit,227.74,Sunday
+TXN001063,2025-08-25,2025-08,Entertainment,PVR Cinemas,UPI,Debit,984.85,Monday
+TXN001064,2025-08-25,2025-08,Food & Dining,Zomato,Credit Card,Debit,647.72,Monday
+TXN001065,2025-08-25,2025-08,Transportation,Uber,UPI,Debit,219.73,Monday
+TXN001066,2025-08-26,2025-08,Travel,OYO Rooms,UPI,Debit,2970.82,Tuesday
+TXN001067,2025-08-28,2025-08,Shopping,Flipkart,Credit Card,Debit,1498.49,Thursday
+TXN001068,2025-08-28,2025-08,Transportation,Rapido,UPI,Debit,124.41,Thursday
+TXN001069,2025-08-28,2025-08,Food & Dining,Domino's,UPI,Debit,703.21,Thursday
+TXN001070,2025-08-28,2025-08,Transportation,Uber,Debit Card,Debit,608.78,Thursday
+TXN001071,2025-08-30,2025-08,Transportation,Rapido,UPI,Debit,163.16,Saturday
+TXN001072,2025-08-30,2025-08,Entertainment,Steam Games,Credit Card,Debit,754.78,Saturday
+TXN001073,2025-08-30,2025-08,Groceries,Local Kirana Store,UPI,Debit,468.95,Saturday
+TXN001074,2025-08-30,2025-08,Groceries,DMart,UPI,Debit,1261.56,Saturday
+TXN001075,2025-08-31,2025-08,Transportation,Delhi Metro Recharge,Cash,Debit,218.29,Sunday
+TXN001076,2025-09-01,2025-09,Transportation,Rapido,UPI,Debit,97.59,Monday
+TXN001077,2025-09-01,2025-09,Food & Dining,Office Canteen,Debit Card,Debit,66.79,Monday
+TXN001078,2025-09-01,2025-09,Salary,TechNova Pvt Ltd,Net Banking,Credit,76160.0,Monday
+TXN001079,2025-09-03,2025-09,Food & Dining,Swiggy,UPI,Debit,658.27,Wednesday
+TXN001080,2025-09-03,2025-09,Rent,House Rent - Landlord,Net Banking,Debit,15750.0,Wednesday
+TXN001081,2025-09-04,2025-09,Entertainment,BookMyShow,UPI,Debit,535.44,Thursday
+TXN001082,2025-09-05,2025-09,Utilities,Delhi Jal Board,Net Banking,Debit,250.0,Friday
+TXN001083,2025-09-05,2025-09,Food & Dining,Zomato,UPI,Debit,222.14,Friday
+TXN001084,2025-09-06,2025-09,Food & Dining,Office Canteen,Debit Card,Debit,171.3,Saturday
+TXN001085,2025-09-06,2025-09,Food & Dining,Office Canteen,UPI,Debit,128.68,Saturday
+TXN001086,2025-09-07,2025-09,Subscriptions,Netflix,UPI,Debit,649.0,Sunday
+TXN001087,2025-09-09,2025-09,Entertainment,Steam Games,Debit Card,Debit,1522.82,Tuesday
+TXN001088,2025-09-10,2025-09,Insurance,LIC Policy Premium,Net Banking,Debit,2200.0,Wednesday
+TXN001089,2025-09-10,2025-09,Utilities,BSES Electricity,UPI,Debit,3277.76,Wednesday
+TXN001090,2025-09-10,2025-09,Utilities,Airtel Broadband,UPI,Debit,799.0,Wednesday
+TXN001091,2025-09-11,2025-09,Utilities,Indraprastha Gas (PNG),UPI,Debit,450.0,Thursday
+TXN001092,2025-09-11,2025-09,Groceries,Blinkit,UPI,Debit,264.31,Thursday
+TXN001093,2025-09-12,2025-09,Subscriptions,Spotify,Credit Card,Debit,119.0,Friday
+TXN001094,2025-09-13,2025-09,Healthcare,Dental Clinic,UPI,Debit,697.55,Saturday
+TXN001095,2025-09-14,2025-09,Groceries,Zepto,UPI,Debit,526.44,Sunday
+TXN001096,2025-09-15,2025-09,Transportation,Uber,Credit Card,Debit,235.92,Monday
+TXN001097,2025-09-15,2025-09,Subscriptions,Jio Mobile Recharge,UPI,Debit,349.0,Monday
+TXN001098,2025-09-16,2025-09,Food & Dining,Zomato,Debit Card,Debit,626.59,Tuesday
+TXN001099,2025-09-17,2025-09,Food & Dining,Office Canteen,UPI,Debit,194.01,Wednesday
+TXN001100,2025-09-18,2025-09,Transportation,Indian Oil Petrol Pump,UPI,Debit,523.6,Thursday
+TXN001101,2025-09-18,2025-09,Transportation,Rapido,UPI,Debit,141.11,Thursday
+TXN001102,2025-09-18,2025-09,Food & Dining,Zomato,Cash,Debit,748.48,Thursday
+TXN001103,2025-09-18,2025-09,Groceries,DMart,UPI,Debit,638.93,Thursday
+TXN001104,2025-09-20,2025-09,Subscriptions,Amazon Prime,Credit Card,Debit,299.0,Saturday
+TXN001105,2025-09-20,2025-09,Entertainment,BookMyShow,UPI,Debit,830.13,Saturday
+TXN001106,2025-09-21,2025-09,Food & Dining,Starbucks,UPI,Debit,355.0,Sunday
+TXN001107,2025-09-21,2025-09,Food & Dining,Zomato,UPI,Debit,489.57,Sunday
+TXN001108,2025-09-21,2025-09,Transportation,Delhi Metro Recharge,UPI,Debit,218.14,Sunday
+TXN001109,2025-09-21,2025-09,Food & Dining,Starbucks,UPI,Debit,686.6,Sunday
+TXN001110,2025-09-22,2025-09,Transportation,Rapido,UPI,Debit,167.79,Monday
+TXN001111,2025-09-23,2025-09,Healthcare,Dental Clinic,UPI,Debit,1912.51,Tuesday
+TXN001112,2025-09-24,2025-09,Groceries,Zepto,UPI,Debit,711.66,Wednesday
+TXN001113,2025-09-25,2025-09,Food & Dining,Office Canteen,Debit Card,Debit,107.26,Thursday
+TXN001114,2025-09-27,2025-09,Healthcare,1mg,UPI,Debit,499.97,Saturday
+TXN001115,2025-09-27,2025-09,Transportation,Delhi Metro Recharge,UPI,Debit,205.14,Saturday
+TXN001116,2025-09-27,2025-09,Food & Dining,Zomato,Cash,Debit,415.5,Saturday
+TXN001117,2025-09-28,2025-09,Education,Udemy,Debit Card,Debit,2443.55,Sunday
+TXN001118,2025-09-28,2025-09,Interest,Bank Interest,Net Banking,Credit,1271.78,Sunday
+TXN001119,2025-09-30,2025-09,Entertainment,Bowling Alley,UPI,Debit,1306.17,Tuesday
+TXN001120,2025-10-01,2025-10,Shopping,Myntra,Unknown,Debit,2227.44,Wednesday
+TXN001121,2025-10-01,2025-10,Transportation,Delhi Metro Recharge,Cash,Debit,231.97,Wednesday
+TXN001122,2025-10-01,2025-10,Salary,TechNova Pvt Ltd,Net Banking,Credit,76160.0,Wednesday
+TXN001123,2025-10-02,2025-10,Groceries,Zepto,UPI,Debit,459.08,Thursday
+TXN001124,2025-10-02,2025-10,Groceries,Zepto,UPI,Debit,516.28,Thursday
+TXN001125,2025-10-03,2025-10,Transportation,Delhi Metro Recharge,Credit Card,Debit,230.67,Friday
+TXN001126,2025-10-03,2025-10,Rent,House Rent - Landlord,Net Banking,Debit,15750.0,Friday
+TXN001127,2025-10-04,2025-10,Shopping,Croma,UPI,Debit,5343.31,Saturday
+TXN001128,2025-10-04,2025-10,Groceries,Zepto,Debit Card,Debit,785.26,Saturday
+TXN001129,2025-10-05,2025-10,Utilities,BSES Electricity,Net Banking,Debit,1158.97,Sunday
+TXN001130,2025-10-05,2025-10,Transportation,Uber,UPI,Debit,163.48,Sunday
+TXN001131,2025-10-05,2025-10,Utilities,Indraprastha Gas (PNG),UPI,Debit,450.0,Sunday
+TXN001132,2025-10-06,2025-10,Travel,MakeMyTrip,Net Banking,Debit,8147.64,Monday
+TXN001133,2025-10-07,2025-10,Subscriptions,Netflix,Credit Card,Debit,649.0,Tuesday
+TXN001134,2025-10-08,2025-10,Groceries,Zepto,UPI,Debit,747.45,Wednesday
+TXN001135,2025-10-09,2025-10,Transportation,Delhi Metro Recharge,Credit Card,Debit,208.89,Thursday
+TXN001136,2025-10-09,2025-10,Groceries,BigBasket,UPI,Debit,1837.3,Thursday
+TXN001137,2025-10-10,2025-10,Food & Dining,Starbucks,UPI,Debit,873.01,Friday
+TXN001138,2025-10-10,2025-10,Insurance,LIC Policy Premium,Net Banking,Debit,2200.0,Friday
+TXN001139,2025-10-11,2025-10,Groceries,DMart,Cash,Debit,2829.04,Saturday
+TXN001140,2025-10-11,2025-10,Groceries,Local Kirana Store,Credit Card,Debit,486.94,Saturday
+TXN001141,2025-10-11,2025-10,Transportation,Ola,UPI,Debit,432.84,Saturday
+TXN001142,2025-10-11,2025-10,Food & Dining,Zomato,Cash,Debit,909.97,Saturday
+TXN001143,2025-10-12,2025-10,Transportation,Indian Oil Petrol Pump,Credit Card,Debit,1235.91,Sunday
+TXN001144,2025-10-12,2025-10,Subscriptions,Spotify,Credit Card,Debit,119.0,Sunday
+TXN001145,2025-10-13,2025-10,Freelance,Upwork Client,Unknown,Credit,9900.0,Monday
+TXN001146,2025-10-14,2025-10,Transportation,Rapido,Credit Card,Debit,171.76,Tuesday
+TXN001147,2025-10-14,2025-10,Food & Dining,Haldiram's,UPI,Debit,391.32,Tuesday
+TXN001148,2025-10-15,2025-10,Subscriptions,Jio Mobile Recharge,UPI,Debit,349.0,Wednesday
+TXN001149,2025-10-15,2025-10,Utilities,Airtel Broadband,Credit Card,Debit,799.0,Wednesday
+TXN001150,2025-10-16,2025-10,Utilities,Delhi Jal Board,UPI,Debit,250.0,Thursday
+TXN001151,2025-10-18,2025-10,Shopping,Amazon,Credit Card,Debit,541.97,Saturday
+TXN001152,2025-10-18,2025-10,Shopping,Flipkart,UPI,Debit,1377.45,Saturday
+TXN001153,2025-10-18,2025-10,Shopping,Amazon,Credit Card,Debit,2257.08,Saturday
+TXN001154,2025-10-18,2025-10,Food & Dining,Starbucks,Cash,Debit,742.06,Saturday
+TXN001155,2025-10-19,2025-10,Food & Dining,Swiggy,UPI,Debit,946.45,Sunday
+TXN001156,2025-10-19,2025-10,Food & Dining,Zomato,UPI,Debit,688.55,Sunday
+TXN001157,2025-10-20,2025-10,Transportation,Indian Oil Petrol Pump,UPI,Debit,628.54,Monday
+TXN001158,2025-10-20,2025-10,Subscriptions,Amazon Prime,Credit Card,Debit,299.0,Monday
+TXN001159,2025-10-21,2025-10,Transportation,Indian Oil Petrol Pump,Debit Card,Debit,1567.52,Tuesday
+TXN001160,2025-10-22,2025-10,Transportation,Ola,UPI,Debit,405.86,Wednesday
+TXN001161,2025-10-23,2025-10,Transportation,Delhi Metro Recharge,Unknown,Debit,439.42,Thursday
+TXN001162,2025-10-23,2025-10,Food & Dining,Zomato,Cash,Debit,871.14,Thursday
+TXN001163,2025-10-23,2025-10,Groceries,DMart,UPI,Debit,2763.06,Thursday
+TXN001164,2025-10-23,2025-10,Food & Dining,Zomato,UPI,Debit,840.32,Thursday
+TXN001165,2025-10-24,2025-10,Food & Dining,Office Canteen,Credit Card,Debit,92.27,Friday
+TXN001166,2025-10-24,2025-10,Food & Dining,Haldiram's,UPI,Debit,799.05,Friday
+TXN001167,2025-10-25,2025-10,Food & Dining,Domino's,Credit Card,Debit,699.43,Saturday
+TXN001168,2025-10-25,2025-10,Shopping,Myntra,Credit Card,Debit,1327.62,Saturday
+TXN001169,2025-10-25,2025-10,Transportation,Delhi Metro Recharge,UPI,Debit,333.42,Saturday
+TXN001170,2025-10-26,2025-10,Shopping,Amazon,UPI,Debit,1911.7,Sunday
+TXN001171,2025-10-28,2025-10,Groceries,DMart,Credit Card,Debit,798.45,Tuesday
+TXN001172,2025-10-31,2025-10,Food & Dining,Domino's,UPI,Debit,989.82,Friday
+TXN001173,2025-11-01,2025-11,Salary,TechNova Pvt Ltd,Net Banking,Credit,76160.0,Saturday
+TXN001174,2025-11-01,2025-11,Healthcare,1mg,UPI,Debit,544.97,Saturday
+TXN001175,2025-11-03,2025-11,Rent,House Rent - Landlord,Net Banking,Debit,15750.0,Monday
+TXN001176,2025-11-04,2025-11,Entertainment,Bowling Alley,UPI,Debit,605.94,Tuesday
+TXN001177,2025-11-05,2025-11,Transportation,Indian Oil Petrol Pump,UPI,Debit,1509.47,Wednesday
+TXN001178,2025-11-05,2025-11,Food & Dining,Office Canteen,UPI,Debit,255.31,Wednesday
+TXN001179,2025-11-06,2025-11,Food & Dining,Zomato,Credit Card,Debit,620.08,Thursday
+TXN001180,2025-11-06,2025-11,Utilities,BSES Electricity,UPI,Debit,1137.52,Thursday
+TXN001181,2025-11-07,2025-11,Utilities,Airtel Broadband,Net Banking,Debit,799.0,Friday
+TXN001182,2025-11-07,2025-11,Groceries,Local Kirana Store,UPI,Debit,456.28,Friday
+TXN001183,2025-11-07,2025-11,Subscriptions,Netflix,Credit Card,Debit,649.0,Friday
+TXN001184,2025-11-08,2025-11,Groceries,BigBasket,Cash,Debit,1158.36,Saturday
+TXN001185,2025-11-08,2025-11,Shopping,Amazon,UPI,Debit,595.3,Saturday
+TXN001186,2025-11-09,2025-11,Utilities,Delhi Jal Board,UPI,Debit,250.0,Sunday
+TXN001187,2025-11-09,2025-11,Freelance,Upwork Client,UPI,Credit,8900.0,Sunday
+TXN001188,2025-11-10,2025-11,Insurance,LIC Policy Premium,Net Banking,Debit,2200.0,Monday
+TXN001189,2025-11-10,2025-11,Groceries,Local Kirana Store,UPI,Debit,164.18,Monday
+TXN001190,2025-11-10,2025-11,Food & Dining,Starbucks,UPI,Debit,893.74,Monday
+TXN001191,2025-11-10,2025-11,Transportation,Ola,Debit Card,Debit,297.3,Monday
+TXN001192,2025-11-11,2025-11,Food & Dining,Domino's,Unknown,Debit,999.94,Tuesday
+TXN001193,2025-11-11,2025-11,Utilities,Indraprastha Gas (PNG),Net Banking,Debit,450.0,Tuesday
+TXN001194,2025-11-11,2025-11,Groceries,BigBasket,UPI,Debit,2392.53,Tuesday
+TXN001195,2025-11-11,2025-11,Shopping,Decathlon,Credit Card,Debit,2923.67,Tuesday
+TXN001196,2025-11-11,2025-11,Education,Udemy,UPI,Debit,1511.75,Tuesday
+TXN001197,2025-11-12,2025-11,Subscriptions,Spotify,Credit Card,Debit,119.0,Wednesday
+TXN001198,2025-11-13,2025-11,Entertainment,BookMyShow,UPI,Debit,1280.71,Thursday
+TXN001199,2025-11-14,2025-11,Education,Coursera,UPI,Debit,2656.82,Friday
+TXN001200,2025-11-14,2025-11,Food & Dining,Haldiram's,UPI,Debit,868.68,Friday
+TXN001201,2025-11-15,2025-11,Transportation,Uber,Credit Card,Debit,625.09,Saturday
+TXN001202,2025-11-15,2025-11,Subscriptions,Jio Mobile Recharge,Credit Card,Debit,349.0,Saturday
+TXN001203,2025-11-16,2025-11,Food & Dining,Office Canteen,UPI,Debit,204.48,Sunday
+TXN001204,2025-11-18,2025-11,Transportation,Rapido,UPI,Debit,67.97,Tuesday
+TXN001205,2025-11-18,2025-11,Transportation,Ola,UPI,Debit,406.77,Tuesday
+TXN001206,2025-11-18,2025-11,Transportation,Indian Oil Petrol Pump,UPI,Debit,1373.37,Tuesday
+TXN001207,2025-11-19,2025-11,Healthcare,Dental Clinic,UPI,Debit,2430.86,Wednesday
+TXN001208,2025-11-20,2025-11,Transportation,Indian Oil Petrol Pump,UPI,Debit,610.95,Thursday
+TXN001209,2025-11-20,2025-11,Shopping,Myntra,Debit Card,Debit,832.68,Thursday
+TXN001210,2025-11-20,2025-11,Subscriptions,Amazon Prime,Credit Card,Debit,299.0,Thursday
+TXN001211,2025-11-21,2025-11,Shopping,Amazon,Credit Card,Debit,1820.69,Friday
+TXN001212,2025-11-22,2025-11,Transportation,Delhi Metro Recharge,UPI,Debit,272.61,Saturday
+TXN001213,2025-11-23,2025-11,Food & Dining,Haldiram's,Cash,Debit,721.02,Sunday
+TXN001214,2025-11-24,2025-11,Education,Udemy,Debit Card,Debit,803.13,Monday
+TXN001215,2025-11-24,2025-11,Entertainment,Steam Games,UPI,Debit,633.0,Monday
+TXN001216,2025-11-26,2025-11,Food & Dining,Starbucks,UPI,Debit,535.76,Wednesday
+TXN001217,2025-11-26,2025-11,Transportation,Uber,Debit Card,Debit,554.05,Wednesday
+TXN001218,2025-11-26,2025-11,Shopping,Myntra,Credit Card,Debit,1903.27,Wednesday
+TXN001219,2025-11-26,2025-11,Groceries,Local Kirana Store,Debit Card,Debit,279.85,Wednesday
+TXN001220,2025-11-26,2025-11,Transportation,Ola,UPI,Debit,421.86,Wednesday
+TXN001221,2025-11-26,2025-11,Transportation,Indian Oil Petrol Pump,UPI,Debit,1315.47,Wednesday
+TXN001222,2025-11-28,2025-11,Food & Dining,Domino's,Debit Card,Debit,686.31,Friday
+TXN001223,2025-11-28,2025-11,Transportation,Rapido,Debit Card,Debit,169.29,Friday
+TXN001224,2025-11-30,2025-11,Food & Dining,Starbucks,UPI,Debit,579.81,Sunday
+TXN001225,2025-11-30,2025-11,Shopping,Croma,Debit Card,Debit,5953.65,Sunday
+TXN001226,2025-12-01,2025-12,Salary,TechNova Pvt Ltd,Net Banking,Credit,76160.0,Monday
+TXN001227,2025-12-01,2025-12,Food & Dining,Office Canteen,Credit Card,Debit,156.65,Monday
+TXN001228,2025-12-03,2025-12,Rent,House Rent - Landlord,Net Banking,Debit,15750.0,Wednesday
+TXN001229,2025-12-04,2025-12,Travel,OYO Rooms,Credit Card,Debit,3288.96,Thursday
+TXN001230,2025-12-04,2025-12,Transportation,Uber,UPI,Debit,246.44,Thursday
+TXN001231,2025-12-04,2025-12,Groceries,BigBasket,Debit Card,Debit,2101.39,Thursday
+TXN001232,2025-12-05,2025-12,Transportation,Ola,UPI,Debit,267.99,Friday
+TXN001233,2025-12-06,2025-12,Groceries,BigBasket,UPI,Debit,1821.99,Saturday
+TXN001234,2025-12-06,2025-12,Utilities,Indraprastha Gas (PNG),Net Banking,Debit,720.0,Saturday
+TXN001235,2025-12-07,2025-12,Food & Dining,Swiggy,UPI,Debit,756.21,Sunday
+TXN001236,2025-12-07,2025-12,Food & Dining,Office Canteen,Debit Card,Debit,189.77,Sunday
+TXN001237,2025-12-07,2025-12,Subscriptions,Netflix,Credit Card,Debit,649.0,Sunday
+TXN001238,2025-12-08,2025-12,Education,Coursera,Credit Card,Debit,2549.04,Monday
+TXN001239,2025-12-08,2025-12,Education,Udemy,Credit Card,Debit,2877.23,Monday
+TXN001240,2025-12-09,2025-12,Utilities,Delhi Jal Board,UPI,Debit,250.0,Tuesday
+TXN001241,2025-12-09,2025-12,Food & Dining,Zomato,UPI,Debit,602.79,Tuesday
+TXN001242,2025-12-10,2025-12,Utilities,Airtel Broadband,Net Banking,Debit,799.0,Wednesday
+TXN001243,2025-12-10,2025-12,Insurance,LIC Policy Premium,Net Banking,Debit,2200.0,Wednesday
+TXN001244,2025-12-11,2025-12,Food & Dining,Domino's,Debit Card,Debit,535.83,Thursday
+TXN001245,2025-12-11,2025-12,Transportation,Uber,Credit Card,Debit,476.22,Thursday
+TXN001246,2025-12-11,2025-12,Shopping,Myntra,UPI,Debit,780.59,Thursday
+TXN001247,2025-12-12,2025-12,Utilities,BSES Electricity,Net Banking,Debit,1219.92,Friday
+TXN001248,2025-12-12,2025-12,Transportation,Indian Oil Petrol Pump,UPI,Debit,1380.51,Friday
+TXN001249,2025-12-12,2025-12,Subscriptions,Spotify,Debit Card,Debit,119.0,Friday
+TXN001250,2025-12-13,2025-12,Food & Dining,Starbucks,UPI,Debit,697.95,Saturday
+TXN001251,2025-12-13,2025-12,Entertainment,BookMyShow,UPI,Debit,729.28,Saturday
+TXN001252,2025-12-13,2025-12,Groceries,Local Kirana Store,Debit Card,Debit,239.11,Saturday
+TXN001253,2025-12-14,2025-12,Groceries,DMart,Cash,Debit,1394.38,Sunday
+TXN001254,2025-12-14,2025-12,Transportation,Ola,Cash,Debit,358.66,Sunday
+TXN001255,2025-12-15,2025-12,Healthcare,Dental Clinic,UPI,Debit,2275.36,Monday
+TXN001256,2025-12-15,2025-12,Subscriptions,Jio Mobile Recharge,Credit Card,Debit,349.0,Monday
+TXN001257,2025-12-15,2025-12,Travel,IndiGo Airlines,UPI,Debit,4425.15,Monday
+TXN001258,2025-12-16,2025-12,Shopping,Myntra,Credit Card,Debit,2403.68,Tuesday
+TXN001259,2025-12-16,2025-12,Shopping,Flipkart,UPI,Debit,1687.28,Tuesday
+TXN001260,2025-12-16,2025-12,Freelance,Upwork Client,UPI,Credit,9500.0,Tuesday
+TXN001261,2025-12-16,2025-12,Entertainment,Bowling Alley,UPI,Debit,909.13,Tuesday
+TXN001262,2025-12-17,2025-12,Food & Dining,Office Canteen,UPI,Debit,235.0,Wednesday
+TXN001263,2025-12-18,2025-12,Transportation,Ola,Credit Card,Debit,319.0,Thursday
+TXN001264,2025-12-18,2025-12,Travel,IRCTC,Net Banking,Debit,1376.88,Thursday
+TXN001265,2025-12-18,2025-12,Groceries,DMart,UPI,Debit,1838.39,Thursday
+TXN001266,2025-12-19,2025-12,Transportation,Delhi Metro Recharge,UPI,Debit,475.6,Friday
+TXN001267,2025-12-19,2025-12,Healthcare,Dental Clinic,UPI,Debit,918.13,Friday
+TXN001268,2025-12-20,2025-12,Transportation,Delhi Metro Recharge,UPI,Debit,453.66,Saturday
+TXN001269,2025-12-20,2025-12,Transportation,Delhi Metro Recharge,UPI,Debit,379.09,Saturday
+TXN001270,2025-12-20,2025-12,Subscriptions,Amazon Prime,UPI,Debit,299.0,Saturday
+TXN001271,2025-12-20,2025-12,Transportation,Rapido,UPI,Debit,94.38,Saturday
+TXN001272,2025-12-21,2025-12,Food & Dining,Office Canteen,UPI,Debit,111.57,Sunday
+TXN001273,2025-12-21,2025-12,Groceries,BigBasket,UPI,Debit,2183.28,Sunday
+TXN001274,2025-12-23,2025-12,Transportation,Ola,UPI,Debit,466.18,Tuesday
+TXN001275,2025-12-26,2025-12,Food & Dining,Swiggy,Debit Card,Debit,661.81,Friday
+TXN001276,2025-12-26,2025-12,Food & Dining,Haldiram's,UPI,Debit,1254.12,Friday
+TXN001277,2025-12-28,2025-12,Shopping,Decathlon,Credit Card,Debit,2124.64,Sunday
+TXN001278,2025-12-28,2025-12,Interest,Bank Interest,Net Banking,Credit,678.1,Sunday

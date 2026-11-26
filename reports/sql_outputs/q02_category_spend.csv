@@ -1,0 +1,13 @@
+category,num_transactions,total_spent,avg_transaction,share_pct
+Rent,24,369000.0,15375.0,25.0
+Shopping,74,174153.94,2353.43,11.8
+Transportation,331,173107.6,522.98,11.73
+Groceries,193,163016.81,844.65,11.05
+Food & Dining,302,161214.38,533.82,10.92
+Insurance,26,89800.0,3453.85,6.08
+Utilities,96,85003.44,885.45,5.76
+Travel,14,63924.85,4566.06,4.33
+Entertainment,55,62476.01,1135.93,4.23
+Healthcare,36,61698.98,1713.86,4.18
+Education,16,38403.51,2400.22,2.6
+Subscriptions,96,33984.0,354.0,2.3

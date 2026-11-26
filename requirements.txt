@@ -1,0 +1,11 @@
+# Install with:  pip install -r requirements.txt
+# Tested with: Python 3.15, pandas 3.1.1, numpy 2.5.5, matplotlib 3.11.2,
+#              openpyxl 3.1.5, plotly 7.2.0, streamlit 1.67.0, pytest 9.2.0
+pandas>=2.0
+numpy>=1.24
+matplotlib>=3.7
+openpyxl>=3.1
+plotly>=5.18
+streamlit>=1.50
+pytest>=7.0
+notebook>=7.0          # to open notebooks/expense_tracker_analysis.ipynb
