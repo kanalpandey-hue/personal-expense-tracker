@@ -1,7 +1,7 @@
 payment_mode,num_transactions,total_spent,txn_share_pct
-UPI,717,660907.96,56.77
-Net Banking,58,351945.66,4.59
-Credit Card,237,256263.42,18.76
-Debit Card,120,108287.09,9.5
-Cash,93,54708.47,7.36
-Unknown,38,43670.92,3.01
+UPI,672,602763.8,55.04
+Net Banking,79,441855.58,6.47
+Credit Card,228,221081.12,18.67
+Debit Card,124,116148.26,10.16
+Cash,83,54132.01,6.8
+Unknown,35,24821.42,2.87

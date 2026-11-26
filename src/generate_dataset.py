@@ -355,6 +355,13 @@ def build_budget(clean_df):
 def main():
     config.ensure_folders()
 
+    # Re-set the seed on EVERY run, not only when the module is first imported.
+    # Otherwise a second run in the same Python process (for example when
+    # Streamlit re-runs a script) continues the random sequence and creates a
+    # different dataset.
+    random.seed(SEED)
+    np.random.seed(SEED)
+
     clean = build_clean_transactions()
     dirty = make_data_dirty(clean)
     budget = build_budget(clean)

@@ -33,3 +33,6 @@ credentials*.json
 
 # personal entries typed into the dashboard
 data/user_entries.csv
+
+# Local safety backups
+backups/
